@@ -10,23 +10,23 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "2020 CLIMAS CAMP | 中文資管大氣聯合宿營"
+email: "brian.lxchen@gmail.com"
+description: "2020 CLIMAS CAMP is welcoming all freshmen majoring in CL, IM, and AS to embark on a special 3-day journey with seniors."
+baseurl: "/climas"
+url: "https://climas.now.sh"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "CLIMAS"
+organizerAlternateName: "2020 CLIMAS Camp"
+organizerDescription: "Student group ready for 2020 CLIMAS Camp."
+organizerEmail: "brian.lxchen@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -56,13 +56,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "2020 CLIMAS CAMP"
+eventDate: "September - November, 2020"
+typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
+typeoutFallback: "中文資管大氣聯合宿營"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "馬上報名"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
