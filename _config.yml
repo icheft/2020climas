@@ -12,7 +12,7 @@ exclude: ["/automation/", "README.md", "LICENSE.txt", "CNAME"]
 title: "2020 CLIMAS CAMP | 中文資管大氣聯合宿營"
 email: "brian.lxchen@gmail.com"
 description: "2020 CLIMAS CAMP is welcoming all freshmen majoring in CL, IM, and AS to embark on a special 3-day journey with seniors."
-baseurl: "/climas"
+# baseurl: "/climas"
 url: "https://climas.now.sh"
 # permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
