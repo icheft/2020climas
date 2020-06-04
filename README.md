@@ -5,6 +5,10 @@
 
 
 ## CLIMAS
+### Features
++ Application Forms can either be done by using:
+  + [KKTIX](https://kktix.com) or
+  + [ticketforevent](https://ticketforevent.com/en/)
 
 ## Project Zeppelin
 ### About
