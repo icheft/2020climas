@@ -23,9 +23,9 @@ siteVerification: ""
 organizerName: "CLIMAS"
 organizerAlternateName: "2020 CLIMAS Camp"
 organizerDescription: "Student group ready for 2020 CLIMAS Camp."
-organizerEmail: "brian.lxchen@gmail.com"
+organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://lviv.gdg.org.ua/"
+organizerLink: "https://climas.now.sh/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
