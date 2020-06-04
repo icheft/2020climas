@@ -173,8 +173,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "envelop"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "envelope"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://facebook.com/GDGLviv", icon: "github"}
+ - {link: "https://facebook.com/GDGLviv", icon: "instagram"}
 footerBlocks:
  -
   title: "Sponsors"
