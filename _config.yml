@@ -41,16 +41,13 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
   - { permalink: "/", text: "Home" }
-  - { permalink: "/blog/", text: "Blog" }
   - { permalink: "/schedule/", text: "Schedule" }
-  - { permalink: "/speakers/", text: "Speakers" }
   - { permalink: "/team/", text: "Team" }
-  - { permalink: "/logistics/", text: "Logistics" }
-  - { permalink: "/hackathon/", text: "Hackathon" }
+  - { permalink: "/logistics", text: "Logistics" }
 bottomNavigationLinks:
-  - { link: "https://bit.ly/dfua-c4p", text: "Become a speaker" }
+  - { link: "https://bit.ly/dfua-c4p", text: "馬上報名" }
 rightNavigationButtons:
-  - { link: "https://bit.ly/dfua-c4p", text: "Become a speaker" }
+  - { link: "https://bit.ly/dfua-c4p", text: "馬上報名" }
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -115,7 +112,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "查看我們團隊"
 
 # Location Block
 locationBlockTitle: "Location"
