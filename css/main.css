@@ -2770,7 +2770,7 @@ time {
 	box-shadow: inset 0 0 12px 3px rgba(0, 0, 0, 0.75);
 }
 .image-section.standart-height {
-	min-height: 100px;
+	min-height: 200px;
 }
 .bottom-section-link {
 	text-transform: uppercase;
