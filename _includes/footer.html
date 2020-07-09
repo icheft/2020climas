@@ -6,6 +6,7 @@
         </div>
         <div class="logo logo-footer logo-gray"></div>
     </div>
+
     <div class="row">
         {% for block in site.footerBlocks %}
             {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -21,6 +22,7 @@
             </div>
         {% endfor %}
     </div>
+
     <div class="row">
         <div class="col-md-6 col-xs-12">
             <ul class="social-links">
@@ -34,18 +36,19 @@
             </ul>
         </div>
     </div>
+
     <div class="row">
         <!-- Please don't delete this line-->
-        <div class="col-md-6">
+        <div class="col-md-12">
             <p class="copyright">
                 &copy; 2020 Based on
                 <a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>
                 by
                 <a href="https://plus.google.com/+OlehZasadnyy/about" target="_blank">Oleh Zasadnyy</a>
-                and crafted by
+                and curated by
                 <a href="http://homepage.ntu.edu.tw/~b07705031" target="_blank">Brian L. Chen</a>
                 &middot;
-                <a href="https://icheft.github.io/climas" target="_blank">Source on GitHub</a>
+                <a href="https://icheft.github.io/2020climas" target="_blank">Source held on GitHub</a>
             </p>
         </div>
     </div>

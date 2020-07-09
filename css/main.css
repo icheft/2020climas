@@ -1,3 +1,16 @@
+@font-face {
+	font-family: 'Mansalva';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local('Mansalva Regular'), local('Mansalva-Regular'),
+		url(https://fonts.gstatic.com/s/mansalva/v1/aWB4m0aacbtDfvq5NKliKY_NdDBh.woff2)
+			format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+
 @import url('//fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C500');
 html {
 	font-family: sans-serif;
@@ -3387,6 +3400,11 @@ nav li a:hover {
 .tickets-2 .tickets-info {
 	font-size: 16px;
 }
+
+.ticket-info-text {
+	text-align: left;
+}
+
 .tickets-table {
 	margin: 0 auto;
 	margin-bottom: 20px;
@@ -5759,4 +5777,21 @@ nav li a:hover {
 	.hidden-md {
 		display: none !important;
 	}
+}
+
+.map-responsive {
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	position: relative;
+	height: 0;
+}
+
+.map-responsive iframe {
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	height: 80%;
+	width: 100%;
+	position: absolute;
 }

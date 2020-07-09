@@ -1,29 +1,32 @@
 <!-- Begin Location Section -->
-<section id="location-map" class="location-map">
-    <div id="canvas-map" class="canvas-map"></div>
+<section class="location-map" id="location-map">
     <div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
                     <h3>{{ site.locationBlockTitle }}</h3>
                     <ul>
-                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
-                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        {% if site.eventLocationName %}
+                            <li>{{ site.eventLocationName }}</li>
+                        {% endif %}
+                        <li>{{ site.eventStreetAddress }},
+                            {{ site.eventAddressLocality }}</li>
+                        <li>
+                            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                        </li>
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
-                            <time>{{ startTime[1] }}</time> -
+                            <time>{{ startTime[1] }}</time>
+                            -
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
                         </li>
                     </ul>
                 </div>
-                <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
-                    <svg class="icon icon-direction" viewBox="0 0 32 32">
-                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
-                    </svg>
-                </a>
             </div>
+        </div>
+        <div class="map-responsive">
+            <iframe allowfullscreen="true" aria-hidden="false" frameborder="0" height="700" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1932.4802116038231!2d120.76465154479448!3d24.25870031565427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x99da03dde526125e!2z5rWB5pif6Iqx5ZyS5pmv6KeA6aSQ5buz5rCR5a6_!5e0!3m2!1sen!2stw!4v1594276612516!5m2!1sen!2stw" style="border:0;" tabindex="0" width="1000"></iframe>
         </div>
     </div>
 </section>

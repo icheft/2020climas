@@ -1,0 +1,16 @@
+<!-- Begin Tickets 2 Section -->
+<section class="tickets-2" id="tickets">
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+        <h3>{{ site.ticketsInfoTitle }}</h3>
+        <div class="ticket-info-text animated hiding" data-animation="fadeInDown" data-delay="0">
+			{% assign animationDelay = 0 %}
+			{% for info in site.ticketsInfoText %}
+			<p><strong>{{ info.name }}</strong>：{{ info.detail }}</p>
+			{% assign animationDelay = animationDelay | plus:250 %}
+			{% endfor %}
+        </div>
+        <!-- </div> -->
+    </div>
+</section>
+<!-- End Tickets 2 Section -->

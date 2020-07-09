@@ -9,11 +9,11 @@ permalink: pretty
 exclude: ["/automation/", "README.md", "LICENSE.txt", "CNAME"]
 
 # Site Settings
-title: "2020 CLIMAS CAMP | 中文資管大氣聯合宿營"
+title: "2020 CLIMAS | 中文資管大氣聯合宿營"
 email: "brian.lxchen@gmail.com"
 description: "2020 CLIMAS CAMP is welcoming all freshmen majoring in CL, IM, and AS to embark on a special 3-day journey with seniors."
 # baseurl: "/climas"
-url: "https://climas.now.sh"
+url: "https://2020climas.now.sh"
 # permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -25,7 +25,7 @@ organizerAlternateName: "2020 CLIMAS Camp"
 organizerDescription: "Student group ready for 2020 CLIMAS Camp."
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://climas.now.sh/"
+organizerLink: "https://2020climas.now.sh/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -43,9 +43,8 @@ navigationLinks:
   - { permalink: "/", text: "首頁" }
   - { permalink: "/schedule/", text: "活動流程" }
   - { permalink: "/team/", text: "認識團隊" }
-  - { permalink: "/logistics", text: "如何前往" }
-  - { permalink: "/logistics", text: "下載區" }
-  - { permalink: "/logistics", text: "FAQ" }
+  - { permalink: "/downloads/", text: "下載區" }
+  - { permalink: "/faq/", text: "FAQ" }
 bottomNavigationLinks:
   - { link: "https://bit.ly/dfua-c4p", text: "馬上報名" }
 rightNavigationButtons:
@@ -53,15 +52,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "2020 CLIMAS CAMP"
-eventDate: "September - November, 2020"
+heroTitle: "2020 CLIMAS"
+eventDate: "Sept. 10 - 13, 2020"
 typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
-typeoutFallback: "中文資管大氣聯合宿營"
+typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
   - { permalink: "/#tickets", text: "馬上報名" }
+  - { link: "mailto:imsa@ntu.im", text: "聯絡我們" }
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "營隊簡介"
 aboutBlock:
   - {
       title: "Conference",
@@ -83,41 +83,31 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
   - {
-      count: "350",
+      count: "50",
       specialCharacter: "+",
-      info: "attendees",
-      detail: "from everywhere",
+      info: "個學員",
+      detail: "來自全台各地的 ELITES",
     }
-  - {
-      count: "48",
-      specialCharacter: "+",
-      info: "hours",
-      detail: "of pure Google technologies",
-    }
-  - {
-      count: "20",
-      specialCharacter: "+",
-      info: "speakers",
-      detail: "from country and beyond",
-    }
+  - { count: "120", specialCharacter: "+", info: "小時", detail: "的精心策劃" }
   - {
       count: "3",
       specialCharacter: "",
-      info: "parallel tracks",
-      detail: "plus entertainment lounge",
+      info: "個系所",
+      detail: "台大中文x資管x大氣，多方認識",
     }
+  - { count: "3", specialCharacter: "", info: "天", detail: "精彩豐富的營隊" }
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "最新消息"
 
 # Rockstar Speakers Block
+rockstarSpeakersTitle: "認識召部"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "查看我們團隊"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "地點連結"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
@@ -133,12 +123,12 @@ mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "場地介紹"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "台中流星花園"
 venueFeatures:
   [
     "3 huge cinema screens",
@@ -164,32 +154,18 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "報名連結"
+ticketsInfoTitle: "報名資訊"
+ticketsInfo: "我們目前採用第三方平台。若報名之後一天內沒有收到 Email 通知，請聯繫粉專或相關承辦人員！"
 ticketsOffers:
-  - name: "Early Bird"
-    price: "350"
-    priceCurrency: "UAH"
-    ticketsNumber: "150"
-    ribbon: "-5%"
-    buyButtonLink: "http://dfua.ticketforevent.com/"
-    buyButtonText: "Buy Now"
-    ticketContentList:
-      [
-        "Lorem ipsum is simply",
-        "Dummy text of the printing",
-        "Typesetting industry",
-      ]
-    validFrom: "2014-08-25T10:00"
-    validThrough: "2014-09-30T23:59"
-  - name: "Last Chance"
-    price: "450"
-    priceCurrency: "UAH"
+  - name: "報名連結"
+    price: "3,900 "
+    priceCurrency: "NTD"
     ticketsNumber: "100"
-    ribbon: "-20%"
+    # ribbon: "心動不如馬上行動！"
     featured: true
     buyButtonLink: "http://dfua.ticketforevent.com/"
-    buyButtonText: "Buy Now"
+    buyButtonText: "馬上報名"
     ticketContentList:
       [
         "Lorem ipsum is simply",
@@ -198,24 +174,21 @@ ticketsOffers:
       ]
     validFrom: "2014-10-01T00:00"
     validThrough: "2014-10-23T23:59"
-    disabled: true
-  - name: "Student"
-    price: "200"
-    priceCurrency: "UAH"
-    ticketsNumber: "50"
-    buyButtonLink: "http://dfua.ticketforevent.com/"
-    buyButtonText: "Buy Now"
-    additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-    ticketContentList:
-      [
-        "Lorem ipsum is simply",
-        "Dummy text of the printing",
-        "Typesetting industry",
-      ]
-    validFrom: "2014-08-20T10:00"
-    validThrough: "2014-10-23T23:59"
-    soldOut: true
-    soldOutText: "Sold Out"
+    disabled: false
+
+ticketsInfoText:
+  - name: "報名資格"
+    detail: "全體台大社會、社工及資管系大一新生"
+  - name: "活動地點"
+    detail: "桃園龍潭渴望園區 (325桃園市龍潭區渴望路185號)"
+  - name: "活動日期"
+    detail: 2020・9/6(五) - 9/8(日)
+  - name: "報名截止日期"
+    detail: "2019・8/30(五)"
+  - name: "營隊費用"
+    detail: "新台幣3900元整"
+  - name: "注意事項"
+    detail: "報名完成後，請填妥新生家長同意書於活動開始時帶至現場繳交。若有需要提前離營，請一併填寫提前離營切結書且於活動開始時帶至現場繳交"
 
 # Footer
 socialLinks:
@@ -229,14 +202,18 @@ socialLinks:
 footerBlocks:
   - title: "Sponsors"
     links:
-      - { link: "http://gdg.org.ua", text: "GDG.org.ua" }
-      - { link: "https://developers.google.com", text: "Google Developers" }
+      - { link: "http://gdg.org.ua", text: "富連網" }
+      - { link: "https://developers.google.com", text: "台大社工系系學會" }
+      - { link: "https://developers.google.com", text: "台大社會系系辦" }
+      - { link: "https://developers.google.com", text: "台大資管系系辦" }
+      - { link: "https://developers.google.com", text: "新天鵝堡德國桌上遊戲" }
   - title: "Contacts"
     links:
-      - { link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua" }
-  - title: "FAQ"
-    links:
-      - { permalink: "/cod/", text: "Code of Conduct" }
+      - { link: "mailto:lviv@gdg.org.ua", text: "@icheft" }
+      - { link: "mailto:lviv@gdg.org.ua", text: "資管系學會" }
+      - { link: "tel:lviv@gdg.org.ua", text: "資訊管理系窗口" }
+      - { link: "tel:lviv@gdg.org.ua", text: "大氣科學系窗口" }
+      - { link: "tel:lviv@gdg.org.ua", text: "中國文學系窗口" }
 
 # Blog
 blogTitle: "Latest news"
