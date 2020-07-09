@@ -1,0 +1,31 @@
+<!-- Begin download Details-->
+<section id="direction-details" class="direction-details">
+	<div class="content-wrapper">
+		<section
+			class="image-section standart-height"
+			style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.downloadDetailsImage }}');"
+		>
+			<h3>{{ site.downloadDetailsTitle }}</h3>
+		</section>
+		<div class="row">
+			<div class="col-lg-10 col-lg-offset-1 text-left">
+				{% assign animationDelay = 0 %} {% for card in
+				site.downloadDetailsCards %} {% assign colWidth = 20 |
+				divided_by: forloop.length %}
+				<div
+					class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding"
+					data-animation="fadeInDown"
+					data-delay="{{ animationDelay }}"
+				>
+					<div class="card">
+						<h4>{{ card.title }}</h4>
+						<p>{{ card.information }}</p>
+					</div>
+				</div>
+				{% assign animationDelay = animationDelay | plus:500 %} {%
+				endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End download Details -->

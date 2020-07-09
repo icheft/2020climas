@@ -200,17 +200,13 @@ socialLinks:
   - { link: "https://facebook.com/GDGLviv", icon: "github" }
   - { link: "https://facebook.com/GDGLviv", icon: "instagram" }
 footerBlocks:
-  - title: "Sponsors"
+  - title: "友情贊助"
     links:
-      - { link: "http://gdg.org.ua", text: "富連網" }
-      - { link: "https://developers.google.com", text: "台大社工系系學會" }
-      - { link: "https://developers.google.com", text: "台大社會系系辦" }
+      - { link: "https://developers.google.com", text: "台大大氣系系辦" }
+      - { link: "https://developers.google.com", text: "台大中文系系辦" }
       - { link: "https://developers.google.com", text: "台大資管系系辦" }
-      - { link: "https://developers.google.com", text: "新天鵝堡德國桌上遊戲" }
-  - title: "Contacts"
+  - title: "聯絡我們"
     links:
-      - { link: "mailto:lviv@gdg.org.ua", text: "@icheft" }
-      - { link: "mailto:lviv@gdg.org.ua", text: "資管系學會" }
       - { link: "tel:lviv@gdg.org.ua", text: "資訊管理系窗口" }
       - { link: "tel:lviv@gdg.org.ua", text: "大氣科學系窗口" }
       - { link: "tel:lviv@gdg.org.ua", text: "中國文學系窗口" }
@@ -224,7 +220,7 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "關於我們"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
@@ -256,6 +252,87 @@ directionDetailsCards:
       information: "Lviv has lots of great hotels and hostels. More information will be available later.",
     }
 directionDetailsWideCards:
+  - title: "Questions?"
+    subCards:
+      - title: "Hotels"
+        links:
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "InterContinental",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "The Hotel Rex",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "Westin Market Street",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "Hotel Adagio",
+            }
+      - title: "Registration"
+        links:
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "InterContinental",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "The Hotel Rex",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "Westin Market Street",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "Hotel Adagio",
+            }
+      - title: "Attendance Details"
+        links:
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "InterContinental",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "The Hotel Rex",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "Westin Market Street",
+            }
+          - {
+              link: "https://plus.google.com/b/102444623953913144164",
+              text: "Hotel Adagio",
+            }
+
+downloadDetailsImage: "direction-details.jpg"
+downloadDetailsTitle: "一些你可能需要的文件都在這"
+downloadDetailsCards:
+  - {
+      title: "行前通知書",
+      information: "上營前請記得要看！如果你有需要隊輔協助，請你不要猶豫，直接聯絡他們。",
+    }
+  - {
+      title: "新生家長同意書",
+      information: '這份文件很重要！上營一定要帶！<a href="/assets/2020新生家長同意書.pdf">點我下載</a>。',
+    }
+  - {
+      title: "提前離營切結書",
+      information: '如果你有需要提前離開本次營隊，請你務必將此切結書下載並列印。簽名後於活動當天交給隊輔。 <a href="/assets/2020中途離營切結書.pdf">點我下載</a>。',
+    }
+  - {
+      title: "中途離營切結書",
+      information: '如果需要中途離營，請你務必將此切結書下載並列印。簽名後於活動當天交給隊輔。<a href="/assets/2020中途離營切結書.pdf">點我下載</a>。',
+    }
+  - {
+      title: "營手冊",
+      information: "營手冊上營會發，不用印下來！但下載下來，留存一份電子檔，多少可以變成回憶 😉",
+    }
+downloadDetailsWideCards:
   - title: "Questions?"
     subCards:
       - title: "Hotels"
