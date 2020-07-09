@@ -53,7 +53,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "2020 CLIMAS"
-eventDate: "Sept. 10 - 13, 2020"
+eventDate: "Sept. 11 - 13, 2020"
 typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
 typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
@@ -172,8 +172,8 @@ ticketsOffers:
         "Dummy text of the printing",
         "Typesetting industry",
       ]
-    validFrom: "2014-10-01T00:00"
-    validThrough: "2014-10-23T23:59"
+    validFrom: "2020-07-15T00:00"
+    validThrough: "2020-09-13T23:59"
     disabled: false
 
 ticketsInfoText:
