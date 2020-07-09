@@ -3,7 +3,7 @@
     <div class="content-wrapper">
         <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
         <h3>{{ site.ticketsInfoTitle }}</h3>
-        <div class="ticket-info-text animated hiding" data-animation="fadeInDown" data-delay="0">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="0" style="text-align: left;">
 			{% assign animationDelay = 0 %}
 			{% for info in site.ticketsInfoText %}
 			<p><strong>{{ info.name }}</strong>：{{ info.detail }}</p>
