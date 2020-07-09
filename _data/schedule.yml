@@ -3,8 +3,8 @@
   tracks:
     - { title: "活動名稱", color: "#03a9f4" }
   timeslots:
-    - { startTime: "08:00", endTime: "10:30", sessionIds: [404, 404, 404] }
-    - { startTime: "11:00", endTime: "12:00", sessionIds: [404, 404, 404] }
+    - { startTime: "08:00", endTime: "10:30", sessionIds: [404] }
+    - { startTime: "11:00", endTime: "12:00", sessionIds: [404] }
     - { startTime: "12:00", endTime: "13:00", sessionIds: [307] }
     - { startTime: "13:00", endTime: "15:30", sessionIds: [404] }
     - { startTime: "16:00", endTime: "18:00", sessionIds: [404] }
