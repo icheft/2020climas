@@ -15,21 +15,19 @@ description: "2020 CLIMAS CAMP is welcoming all freshmen majoring in CL, IM, and
 # baseurl: "/climas"
 url: "https://2020climas.now.sh"
 # permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
+googleAnalyticsTrackingId: "UA-162829284-5"
 siteVerification: ""
 
 # Organizer Info
 organizerName: "CLIMAS"
 organizerAlternateName: "2020 CLIMAS Camp"
 organizerDescription: "Student group ready for 2020 CLIMAS Camp."
-organizerEmail: ""
+organizerEmail: "imsa@ntu.im"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://2020climas.now.sh/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, 宿營, 台大, NTU, IM, AS, CL"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
