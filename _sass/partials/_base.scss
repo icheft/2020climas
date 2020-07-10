@@ -9,6 +9,19 @@ $extra-bold: 600;
 @font-face {
 	font-family: 'TaipeiSans';
 	src: url(/fonts/TaipeiSansTCBeta-Regular.ttf) format('truetype');
+	font-weight: $regular;
+}
+
+@font-face {
+	font-family: 'TaipeiSans';
+	src: url(/fonts/TaipeiSansTCBeta-Light.ttf) format('truetype');
+	font-weight: $light;
+}
+
+@font-face {
+	font-family: 'TaipeiSans';
+	src: url(/fonts/TaipeiSansTCBeta-Bold.ttf) format('truetype');
+	font-weight: $bold;
 }
 
 // Base Font
