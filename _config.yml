@@ -126,13 +126,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "台中流星花園"
-venueFeatures:
-  [
-    "3 huge cinema screens",
-    "Doulby Digital Surround EX audio system",
-    "Located directly in the city center",
-  ]
+venueTitle: '<a href="http://www.glp.com.tw/camp.htm">台中流星花園</a>'
+venueFeatures: ["完善的住宿空間", "優美環境與場地", "優良的地理位置"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -190,24 +185,19 @@ ticketsInfoText:
 
 # Footer
 socialLinks:
-  - {
-      link: "https://twitter.com/intent/user?screen_name=GDGLviv",
-      icon: "envelope",
-    }
+  - { link: "mailto:imsa@ntu.im", icon: "envelope" }
   - { link: "https://facebook.com/GDGLviv", icon: "facebook" }
-  - { link: "https://facebook.com/GDGLviv", icon: "github" }
-  - { link: "https://facebook.com/GDGLviv", icon: "instagram" }
+  - { link: "https://github.com/icheft/2020climas", icon: "github" }
 footerBlocks:
   - title: "友情贊助"
     links:
-      - { link: "https://developers.google.com", text: "台大大氣系系辦" }
-      - { link: "https://developers.google.com", text: "台大中文系系辦" }
-      - { link: "https://developers.google.com", text: "台大資管系系辦" }
+      - { link: "http://www.management.ntu.edu.tw/IM", text: "台大資管系系辦" }
+      - { link: "https://ntu.im/home/", text: "台大資管系系學會" }
   - title: "聯絡我們"
     links:
-      - { link: "tel:lviv@gdg.org.ua", text: "資訊管理系窗口" }
-      - { link: "tel:lviv@gdg.org.ua", text: "大氣科學系窗口" }
-      - { link: "tel:lviv@gdg.org.ua", text: "中國文學系窗口" }
+      - { link: "tel:lviv@gdg.org.ua", text: "資訊管理系窗口: 總召 - 郭子麟" }
+      - { link: "tel:lviv@gdg.org.ua", text: "大氣科學系窗口: 總召 - 陶昱丞" }
+      - { link: "tel:lviv@gdg.org.ua", text: "中國文學系窗口: 總召 - 黃研倫" }
 
 # Blog
 blogTitle: "最新消息"
@@ -219,7 +209,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "關於我們"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "我們就是一群溝通不良的團隊。網頁組要什麼東西，我們能拖就拖。我們超棒！"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
