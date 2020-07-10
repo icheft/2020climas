@@ -6,14 +6,19 @@ $regular: 300;
 $bold: 500;
 $extra-bold: 600;
 
+@font-face {
+	font-family: 'TaipeiSans';
+	src: url(/fonts/TaipeiSansTCBeta-Regular.ttf) format('truetype');
+}
+
 // Base Font
-$base-font-family: sans-serif;
+$base-font-family: 'TaipeiSans', sans-serif;
 $base-font-weight: $regular;
 $base-font-size: 13px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'Roboto';
+$fixed-font-family: 'TaipeiSans', sans-serif;
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
