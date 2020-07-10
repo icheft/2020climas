@@ -3,10 +3,14 @@
 
 Note and useful links can be found [here](https://see-climas-note.now.sh). If you have any questions, please submit them in the [issue page](https://github.com/icheft/2020climas/issues).
 
-### Features
-+ Application Forms can either be done by using:
-  + [KKTIX](https://kktix.com) or
-  + [ticketforevent](https://ticketforevent.com/en/)
+### In Development
+#### Tickets (即報名表)
+需要修改檔案為：`_includes/tickets.html`。抑或是可以直接用以下作為替代方案：
++ [KKTIX](https://kktix.com) or
++ [ticketforevent](https://ticketforevent.com/en/)
+
+#### Others
+其他詳見素材請求。
 
 
 ## Project Zeppelin
