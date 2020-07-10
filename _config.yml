@@ -126,8 +126,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: '<a href="http://www.glp.com.tw/camp.htm">台中流星花園</a>'
-venueFeatures: ["完善的住宿空間", "優美環境與場地", "優良的地理位置"]
+venueTitle: '<a href="http://www.glp.com.tw">台中流星花園</a>'
+venueFeatures:
+  [
+    "<strong>地址</strong>：台中市豐原區水源路坪頂巷8號",
+    "<strong>電話</strong>：04-25151456",
+    '<a href="http://www.glp.com.tw/camp.htm">點我查看前往辦法！</a>',
+  ]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
