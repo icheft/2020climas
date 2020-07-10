@@ -62,19 +62,17 @@ heroButtons:
 aboutTitle: "營隊簡介"
 aboutBlock:
   - {
-      title: "Conference",
-      image: "conference.jpg",
-      text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!",
+      title: "提前認識系上同學與學長姊！",
+      text: "想提前認識系上同學與學長姊，為校園生活譜下美好序曲嗎？
+        想要認識不同系所的人，讓生活圈更加廣泛嗎？
+        想知道選課攻略、系上球隊、多樣社團、校園生活等第一手資訊嗎？
+        那就一定不能錯過這次的迎新宿營！",
     }
   - {
-      title: "Workshops",
-      image: "workshop.jpg",
-      text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!",
-    }
-  - {
-      title: "Hackathon",
-      image: "hackathon.jpg",
-      text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!",
+      title: "台大生存攻略？",
+      text:
+        "透過精心設計的各種活動與遊戲，拉近彼此距離；同時藉由學長姐QA時間，成功獲得台大生存攻略。
+        你，千萬不能錯過。",
     }
 
 # Statistic Block
@@ -83,15 +81,15 @@ statisticBlock:
   - {
       count: "50",
       specialCharacter: "+",
-      info: "個學員",
-      detail: "來自全台各地的 ELITES",
+      info: "學員",
+      detail: "來自全台（世界？）各地的 Elites！",
     }
   - { count: "120", specialCharacter: "+", info: "小時", detail: "的精心策劃" }
   - {
       count: "3",
       specialCharacter: "",
-      info: "個系所",
-      detail: "台大中文x資管x大氣，多方認識",
+      info: "系所",
+      detail: "台大中文 x 資管 x 大氣，多方認識",
     }
   - { count: "3", specialCharacter: "", info: "天", detail: "精彩豐富的營隊" }
 
@@ -176,13 +174,13 @@ ticketsOffers:
 
 ticketsInfoText:
   - name: "報名資格"
-    detail: "全體台大社會、社工及資管系大一新生"
+    detail: "全體台大中文、大氣及資管系大一新生"
   - name: "活動地點"
-    detail: "桃園龍潭渴望園區 (325桃園市龍潭區渴望路185號)"
+    detail: "台中流星花園（台中市豐原區水源路坪頂巷8號）"
   - name: "活動日期"
-    detail: 2020・9/6(五) - 9/8(日)
+    detail: 2020・9/11（五）- 9/13（日）
   - name: "報名截止日期"
-    detail: "2019・8/30(五)"
+    detail: "2020・8/28（五）"
   - name: "營隊費用"
     detail: "新台幣3900元整"
   - name: "注意事項"
@@ -198,6 +196,7 @@ footerBlocks:
     links:
       - { link: "http://www.management.ntu.edu.tw/IM", text: "台大資管系系辦" }
       - { link: "https://ntu.im/home/", text: "台大資管系系學會" }
+      - { link: "https://icheft.github.io/", text: "我他媽寶貴的時間" }
   - title: "聯絡我們"
     links:
       - { link: "tel:lviv@gdg.org.ua", text: "資訊管理系窗口: 總召 - 郭子麟" }
