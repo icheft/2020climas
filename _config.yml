@@ -210,7 +210,7 @@ footerBlocks:
       - { link: "tel:lviv@gdg.org.ua", text: "中國文學系窗口" }
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "最新消息"
 blogCommentsEnabled: true
 discusShortName: "climas"
 
