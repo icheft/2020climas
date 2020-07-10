@@ -1,5 +1,5 @@
 - id: 0
-  name: "Brian"
+  name: "Junior"
   surname: "郭子麟"
   title: "總召 - 資管系二年級"
   thumbnailUrl: brianknor.jpg
@@ -23,28 +23,80 @@
   name: ""
   surname: "黃研倫"
   title: "總召 - 中文系二年級"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: hyl.jpg
   team: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
 
+- id: 3
+  name: "Brandon"
+  surname: "葉柏辰"
+  title: "副召 - 資管系二年級"
+  thumbnailUrl: brandonyeh.jpg
+  team: true
+  social:
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+    - { name: "github", link: "http://zasadnyy.com/" }
+    - { name: "linkedin", link: "http://zasadnyy.com/" }
 - id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Isabelle"
+  surname: "黃晨亘"
+  title: "副召 - 資管系二年級"
+  thumbnailUrl: isabellehuang.jpg
+  team: true
   social:
-    - { name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk" }
-    - { name: "twitter", link: "https://twitter.com/dmytrodanylyk" }
-    - { name: "github", link: "https://github.com/dmytrodanylyk" }
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 5
+  name: ""
+  surname: "彭浚濡"
+  title: "副召 - ??系二年級"
+  thumbnailUrl: pjr.jpg
+  team: true
+  social:
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 6
+  name: "Rick"
+  surname: "楊煜專"
+  title: "副召 - ??系二年級"
+  thumbnailUrl: rickyang.jpg
+  team: true
+  social:
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
 - id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: ""
+  surname: "饒唐宇"
+  title: "副召 - ??系二年級"
+  thumbnailUrl: yty.jpg
+  team: true
+  social:
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+
+- id: 10
+  name: "Brian"
+  surname: "陳立軒"
+  title: "Developer, @icheft"
+  thumbnailUrl: brianchen.jpg
   subTeam: true
   social:
-    - { name: "google-plus", link: "https://google.com/+ValentynShybanov" }
-    - { name: "site", link: "http://olostan.name/" }
+    - { name: "rss", link: "https://plus.google.com/+DmytroDanylyk" }
+    - { name: "github", link: "https://github.com/dmytrodanylyk" }
+    - { name: "facebook", link: "https://github.com/dmytrodanylyk" }
+    - { name: "site", link: "http://zasadnyy.com/" }
+
+- id: 11
+  name: ""
+  surname: "巫芊瑩"
+  title: "Developer"
+  thumbnailUrl: wqy.jpg
+  subTeam: true
+  social:
+    - { name: "rss", link: "https://plus.google.com/+DmytroDanylyk" }
+    - { name: "github", link: "https://github.com/dmytrodanylyk" }
+    - { name: "facebook", link: "https://github.com/dmytrodanylyk" }
+    - { name: "site", link: "http://zasadnyy.com/" }
