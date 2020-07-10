@@ -7,31 +7,28 @@ $bold: 500;
 $extra-bold: 600;
 
 @font-face {
-	font-family: 'Taipei Sans TC';
-	src: url(/fonts/TaipeiSansTCBeta-Regular.ttf) format('truetype');
-	font-weight: $regular;
+	font-family: 'cwTeXHei';
+	font-style: normal;
+	font-weight: 500;
+	src: url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.eot);
+	src: url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.eot?#iefix)
+			format('embedded-opentype'),
+		url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.woff2)
+			format('woff2'),
+		url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.woff)
+			format('woff'),
+		url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.ttf)
+			format('truetype');
 }
 
-@font-face {
-	font-family: 'Taipei Sans TC';
-	src: url(/fonts/TaipeiSansTCBeta-Light.ttf) format('truetype');
-	font-weight: $light;
-}
-
-@font-face {
-	font-family: 'Taipei Sans TC';
-	src: url(/fonts/TaipeiSansTCBeta-Bold.ttf) format('truetype');
-	font-weight: $bold;
-}
-
-// Base Font
+// Base Font sans-serif
 $base-font-family: sans-serif;
 $base-font-weight: $regular;
 $base-font-size: 13px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'Taipei Sans TC';
+$fixed-font-family: 'cwTeXHei';
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
