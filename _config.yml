@@ -44,9 +44,9 @@ navigationLinks:
   - { permalink: "/downloads/", text: "下載區" }
   - { permalink: "/faq/", text: "FAQ" }
 bottomNavigationLinks:
-  - { link: "https://bit.ly/dfua-c4p", text: "馬上報名" }
+  - { link: "https://climas.now.sh/#tickets", text: "馬上報名" }
 rightNavigationButtons:
-  - { link: "https://bit.ly/dfua-c4p", text: "馬上報名" }
+  - { link: "https://climas.now.sh/#tickets", text: "馬上報名" }
 
 # Hero Block
 heroImage: "hero.jpg"
