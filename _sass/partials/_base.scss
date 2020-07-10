@@ -1,25 +1,13 @@
 @import 'compass';
 
 // Font weights
-$light: 100;
-$regular: 300;
-$bold: 500;
-$extra-bold: 600;
+$light: 400;
+$regular: 500;
+$bold: 700;
+$extra-bold: 900;
 
-@font-face {
-	font-family: 'cwTeXHei';
-	font-style: normal;
-	font-weight: 500;
-	src: url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.eot);
-	src: url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.eot?#iefix)
-			format('embedded-opentype'),
-		url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.woff2)
-			format('woff2'),
-		url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.woff)
-			format('woff'),
-		url(//fonts.gstatic.com/ea/cwtexhei/v3/cwTeXHei-zhonly.ttf)
-			format('truetype');
-}
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 // Base Font sans-serif
 $base-font-family: sans-serif;
@@ -28,7 +16,7 @@ $base-font-size: 13px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'cwTeXHei';
+$fixed-font-family: 'Open Sans', 'Noto Sans TC';
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
