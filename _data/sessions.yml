@@ -42,15 +42,15 @@
 - id: 002
   title: "大型破冰 + 開幕"
   service: true
-  description: "破冰破起來！"
+  description: "以為破冰遊戲可以化解尷尬嗎？不，破冰本身就是個尷尬的環節。"
 - id: 003
   title: "大地"
   service: true
-  description: "大地大起來"
+  description: "讓你知道流星花園的地真的很大。"
 - id: 004
   title: "策略"
   service: true
-  description: "策略是啥"
+  description: "輪流寫故事的那個。我也不是很確定。"
 - id: 005
   title: "密室假案"
   service: true
