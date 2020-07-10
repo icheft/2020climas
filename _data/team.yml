@@ -1,39 +1,34 @@
 - id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Brian"
+  surname: "郭子麟"
+  title: "總召 - 資管系二年級"
+  thumbnailUrl: brianknor.jpg
   team: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group" }
   social:
-    - { name: "google-plus", link: "https://google.com/+VitalikZasadnyy" }
-    - { name: "twitter", link: "https://twitter.com/zasadnyy" }
-    - { name: "github", link: "https://github.com/zasadnyy" }
-    - { name: "site", link: "http://zasadnyy.com/" }
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+    - { name: "linkedin", link: "http://zasadnyy.com/" }
 - id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "David"
+  surname: "陶昱丞"
+  title: "總召 - 大氣系二年級"
+  thumbnailUrl: davidtao.jpg
   team: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group" }
   social:
-    - { name: "google-plus", link: "https://google.com/+OlehZasadnyy" }
     - { name: "github", link: "https://github.com/ozasadnyy" }
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+    - { name: "site", link: "http://zasadnyy.com/" }
 - id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
+  name: ""
+  surname: "黃研倫"
+  title: "總召 - 中文系二年級"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
-  ribbon:
-    - { abbr: "GDG", title: "Google Developer Group" }
   social:
-    - { name: "google-plus", link: "https://google.com/+OstapAndrusiv" }
-    - { name: "twitter", link: "https://twitter.com/p1f" }
-    - { name: "site", link: "http://andrusiv.com/" }
+    - { name: "facebook", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 4
   name: "Dmytro"
   surname: "Danylyk"
