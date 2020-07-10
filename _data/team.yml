@@ -3,7 +3,7 @@
   surname: "郭子麟"
   title: "總召 - 資管系二年級"
   thumbnailUrl: brianknor.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
@@ -13,7 +13,7 @@
   surname: "陶昱丞"
   title: "總召 - 大氣系二年級"
   thumbnailUrl: davidtao.jpg
-  team: true
+  exec: true
   social:
     - { name: "github", link: "https://github.com/ozasadnyy" }
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
@@ -24,7 +24,7 @@
   surname: "黃研倫"
   title: "總召 - 中文系二年級"
   thumbnailUrl: hyl.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
@@ -34,7 +34,7 @@
   surname: "葉柏辰"
   title: "副召 - 資管系二年級"
   thumbnailUrl: brandonyeh.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
@@ -45,56 +45,191 @@
   surname: "黃晨亘"
   title: "副召 - 資管系二年級"
   thumbnailUrl: isabellehuang.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
 - id: 5
   name: ""
   surname: "彭浚濡"
-  title: "副召 - ??系二年級"
+  title: "副召 - 中文系二年級"
   thumbnailUrl: pjr.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
 - id: 6
   name: "Rick"
   surname: "楊煜專"
-  title: "副召 - ??系二年級"
+  title: "副召 - 大氣系二年級"
   thumbnailUrl: rickyang.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
 - id: 7
   name: ""
   surname: "饒唐宇"
-  title: "副召 - ??系二年級"
+  title: "副召 - 大氣系二年級"
   thumbnailUrl: yty.jpg
-  team: true
+  exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
     - { name: "rss", link: "http://zasadnyy.com/" }
 
+- id: 8
+  name: "Christine"
+  surname: "王亭勻"
+  title: "活動長 - 資管系二年級"
+  thumbnailUrl: christinewang.jpg
+  activity: true
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/christine891225" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 9
+  name: ""
+  surname: "詹舜凱"
+  title: "活動長 - 大氣系二年級"
+  thumbnailUrl: zsk.jpg
+  activity: true
+  social:
+    - {
+        name: "facebook",
+        link: "https://www.facebook.com/profile.php?id=100003107941277",
+      }
+    - { name: "rss", link: "http://zasadnyy.com/" }
 - id: 10
+  name: ""
+  surname: "楊紫綺"
+  title: "活動長 - 中文系二年級"
+  thumbnailUrl: yzq.jpg
+  activity: true
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/mia.yang.0325" }
+    - {
+        name: "rss",
+        link: "https://www.instagram.com/miayang_0325/?fbclid=IwAR1Md16m9zm19JWKBlZZ7u0CY0o6U-DKg7lL1LM3afSS4mF1dDVfRhoepRw",
+      }
+- id: 11
+  name: "Derek"
+  surname: "盧德原"
+  title: "公關長 - 資管系二年級"
+  thumbnailUrl: dereklu.jpg
+  activity: true
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/derekdylu" }
+    - { name: "github", link: "https://twitter.com/zasadnyy" }
+    - { name: "linkedin", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+    - { name: "site", link: "http://zasadnyy.com/" }
+- id: 12
+  name: ""
+  surname: "傅道正"
+  title: "公關長 - 大氣系二年級"
+  thumbnailUrl: fdj.jpg
+  activity: true
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/tcNTP" }
+    - { name: "github", link: "https://twitter.com/zasadnyy" }
+    - { name: "site", link: "https://twitter.com/zasadnyy" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 13
+  name: ""
+  surname: "李安婕"
+  title: "公關長 - 中文系二年級"
+  thumbnailUrl: laj.jpg
+  activity: true
+  social:
+    - {
+        name: "facebook",
+        link: "https://www.facebook.com/profile.php?id=100003958746252",
+      }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 14
+  name: ""
+  surname: "陳亮瑜"
+  title: "庶務長 - 資管系二年級"
+  thumbnailUrl: cly.jpg
+  activity: true
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/chen.sheng.969" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 15
+  name: ""
+  surname: "張熙元"
+  title: "庶務長 - 大氣系二年級"
+  thumbnailUrl: zxy.jpg
+  activity: true
+  social:
+    - {
+        name: "facebook",
+        link: "https://www.facebook.com/profile.php?id=100003540591415",
+      }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 16
+  name: ""
+  surname: "馬丞楷"
+  title: "庶務長 - 中文系二年級"
+  thumbnailUrl: mck.jpg
+  activity: true
+  social:
+    - {
+        name: "facebook",
+        link: "https://www.facebook.com/profile.php?id=100007086546935",
+      }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 17
+  name: ""
+  surname: "李書成"
+  title: "隊輔長 - 資管系二年級"
+  thumbnailUrl: lsc.jpg
+  activity: true
+  social:
+    - { name: "facebook", link: "https://www.facebook.com/shuuuupiiiii" }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 18
+  name: ""
+  surname: "黃子強"
+  title: "隊輔長 - 大氣系二年級"
+  thumbnailUrl: hzq.jpg
+  activity: true
+  social:
+    - {
+        name: "facebook",
+        link: "https://www.facebook.com/profile.php?id=100006613961518&sk=photos_albums&lst=100002894420772%3A100006613961518%3A1594402655",
+      }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+- id: 19
+  name: ""
+  surname: "董宇然"
+  title: "隊輔長 - 中文系二年級"
+  thumbnailUrl: dyr.jpg
+  activity: true
+  social:
+    - {
+        name: "facebook",
+        link: "https://www.facebook.com/profile.php?id=100002951336823",
+      }
+    - { name: "rss", link: "http://zasadnyy.com/" }
+
+- id: 99
   name: "Brian"
   surname: "陳立軒"
   title: "Developer, @icheft"
   thumbnailUrl: brianchen.jpg
-  subTeam: true
+  dev: true
   social:
     - { name: "rss", link: "https://plus.google.com/+DmytroDanylyk" }
     - { name: "github", link: "https://github.com/dmytrodanylyk" }
     - { name: "facebook", link: "https://github.com/dmytrodanylyk" }
     - { name: "site", link: "http://zasadnyy.com/" }
 
-- id: 11
+- id: 100
   name: ""
   surname: "巫芊瑩"
   title: "Developer"
   thumbnailUrl: wqy.jpg
-  subTeam: true
+  dev: true
   social:
     - { name: "rss", link: "https://plus.google.com/+DmytroDanylyk" }
     - { name: "github", link: "https://github.com/dmytrodanylyk" }
