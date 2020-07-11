@@ -90,14 +90,24 @@ statisticBlock:
       info: "學員",
       detail: "來自全台（世界？）各地的 Elites！",
     }
-  - { count: "600", specialCharacter: "+", info: "小時", detail: "的精心策劃" }
+  - {
+      count: "600",
+      specialCharacter: "+",
+      info: "小時",
+      detail: "學長姐們的精心策劃",
+    }
   - {
       count: "3",
       specialCharacter: "",
       info: "系所",
-      detail: "台大中文 x 資管 x 大氣，多方認識",
+      detail: "中文、資管、大氣三系組成多方認識系上、外系朋朋",
     }
-  - { count: "3", specialCharacter: "", info: "天", detail: "精彩豐富的營隊" }
+  - {
+      count: "3",
+      specialCharacter: "",
+      info: "天",
+      detail: "讓你收穫滿滿的營隊",
+    }
 
 # Latest News Block
 latestNewsTitle: "最新消息"
