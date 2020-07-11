@@ -1,6 +1,7 @@
 $ribbon-color: #999;
 $gdg-ribbon-border-color: #427fed;
 $exec-ribbon-border-color: #427fed;
+$honor-ribbon-border-color: #f53d90;
 $gdgw-ribbon-border-color: #ed2c82;
 $gde-ribbon-border-color: #db4437;
 $wt-ribbon-border-color: #72e1b3;
@@ -52,6 +53,9 @@ $bronze-ribbon-border-color: #cd7f32;
 	}
 	.T3 {
 		border-right: 4px solid $bronze-ribbon-border-color;
+	}
+	.honor {
+		border-right: 4px solid $honor-ribbon-border-color;
 	}
 	.ribbon {
 		font-size: 13px;
