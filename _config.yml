@@ -90,7 +90,7 @@ statisticBlock:
       info: "學員",
       detail: "來自全台（世界？）各地的 Elites！",
     }
-  - { count: "120", specialCharacter: "+", info: "小時", detail: "的精心策劃" }
+  - { count: "600", specialCharacter: "+", info: "小時", detail: "的精心策劃" }
   - {
       count: "3",
       specialCharacter: "",
