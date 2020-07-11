@@ -207,12 +207,15 @@ socialLinks:
 footerBlocks:
   - title: "友情贊助"
     links:
-      - { link: "http://www.management.ntu.edu.tw/IM", text: "台大資管系系辦" }
-      - { link: "https://ntu.im/home/", text: "台大資管系系學會" }
+      - {
+          link: "http://www.management.ntu.edu.tw/IM",
+          text: "台大資訊管理學系系辦",
+        }
+      - { link: "https://ntu.im/home/", text: "台大資訊管理學系系學會" }
   - title: "聯絡我們"
     links:
-      - { link: "tel:lviv@gdg.org.ua", text: "資訊管理系窗口: 總召 - 郭子麟" }
-      - { link: "tel:lviv@gdg.org.ua", text: "大氣科學系窗口: 總召 - 陶昱丞" }
+      - { link: "tel:+886989350258", text: "資訊管理學系窗口: 總召 - 郭子麟" }
+      - { link: "tel:+886910432100", text: "大氣科學系窗口: 總召 - 陶昱丞" }
       - { link: "tel:lviv@gdg.org.ua", text: "中國文學系窗口: 總召 - 黃研倫" }
   - title: "常用連結"
     links:
