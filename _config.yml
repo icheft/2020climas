@@ -166,11 +166,11 @@ ticketsOffers:
     # ribbon: "心動不如馬上行動！"
     featured: true
     buyButtonLink: "#"
-    buyButtonText: "馬上報名"
+    buyButtonText: "報名尚未開放"
     ticketContentList: ["呃", "那個", "歡迎報名喔！"]
     validFrom: "2020-07-15T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: false
+    disabled: true
 
 ticketsInfoText:
   - name: "報名資格"
