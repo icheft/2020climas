@@ -57,11 +57,11 @@ eventDate: "Sept. 11 - 13, 2020"
 typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
 typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
-  - { permalink: "/#tickets", text: "馬上報名" }
   - {
       link: "https://climas.now.sh/2020/07/11/if-youd-like-to-contribute-zh_tw/",
       text: "加入 WE ROCK",
     }
+  - { permalink: "/#tickets", text: "馬上報名" }
   - { link: "mailto:imsa@ntu.im", text: "聯絡我們" }
 
 # About Block
@@ -165,8 +165,19 @@ ticketsOffers:
     price: "3,700 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
-    # ribbon: "心動不如馬上行動！"
+    # ribbon: "不搭車"
     featured: true
+    buyButtonLink: "#"
+    buyButtonText: "報名尚未開放"
+    ticketContentList: []
+    validFrom: "2020-07-15T00:00"
+    validThrough: "2020-08-28T23:59"
+    disabled: true
+  - name: "報名連結"
+    price: "4,000 "
+    priceCurrency: "NTD"
+    ticketsNumber: "100"
+    ribbon: "搭車"
     buyButtonLink: "#"
     buyButtonText: "報名尚未開放"
     ticketContentList: []
