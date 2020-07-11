@@ -41,7 +41,6 @@ navigationLinks:
   - { permalink: "/", text: "首頁" }
   - { permalink: "/schedule/", text: "活動流程" }
   - { permalink: "/team/", text: "認識團隊" }
-  - { permalink: "/rockstars/", text: "WE ROCK" }
   - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/downloads/", text: "下載區" }
   - { permalink: "/faq/", text: "FAQ" }
@@ -57,10 +56,6 @@ eventDate: "Sept. 11 - 13, 2020"
 typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
 typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
-  - {
-      link: "https://climas.now.sh/2020/07/11/if-youd-like-to-contribute-zh_tw/",
-      text: "加入 WE ROCK",
-    }
   - { permalink: "/#tickets", text: "馬上報名" }
   - { link: "#", text: "前往粉專" }
 
@@ -217,6 +212,7 @@ socialLinks:
 footerBlocks:
   - title: "友情贊助"
     links:
+      - { permalink: "/rockstars/", text: "WE ROCK" }
       - {
           link: "https://paypal.me/brianlxchen?locale.x=en_US",
           text: "都要沒錢了還不拉贊助，那就來贊助創作者吧",

@@ -7,3 +7,10 @@
         imageUrl: "ntuimsa.png",
         width: "120px",
       }
+    - {
+        name: "Rockers",
+        description: "對本網站有貢獻的人類",
+        link: "https://climas.now.sh/rockstars/",
+        imageUrl: "ring.svg",
+        width: "120px",
+      }
