@@ -14,6 +14,7 @@ isStaticPost: false
   - [Substituting Media Contents](#substituting-media-contents)
   - [Bug Report](#bug-report)
   - [Feature Requests](#feature-requests)
+  - [FAQ Submission](#faq-submission)
 - [Any questions?](#any-questions)
 
 **想說的話** workspace needs your decorations!
@@ -62,6 +63,9 @@ If there is something wrong with the website, please submit a bug report via [is
 
 ##### Feature Requests
 If you feel like there is something missing or if there is any feature you want to add to the site, please also submit your proposal via the [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE%5D).
+
+##### FAQ Submission
+If you shall have any questions about the camp, please submit your question at the [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=faq_submission.md&title=%5BFAQ%5D). We report to the organizers ASAP. You can follow the [FAQ page](https://climas.now.sh/faq/) for further details.
 
 
 #### Any questions? 

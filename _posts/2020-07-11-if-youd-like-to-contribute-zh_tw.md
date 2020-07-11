@@ -8,10 +8,16 @@ isStaticPost: false
 
 [English version](https://climas.now.sh/2020/07/11/if-youd-like-to-contribute/)
 
-
+- [如何繳交貼文？](#如何繳交貼文)
+- [其他貢獻](#其他貢獻)
+  - [網頁文字校正](#網頁文字校正)
+  - [媒體素材提供](#媒體素材提供)
+  - [Bug 回報](#bug-回報)
+  - [功能回饋](#功能回饋)
+  - [FAQ 問題建議](#faq-問題建議)
+- [還有問題？](#還有問題)
 
 **想說的話** 空間需要你的點綴！
-
 
 2020 CLIMAS 中文x資管x大氣聯合宿營將在九月11日至13日於台中流星花園舉辦。如果你想對這個營隊有所貢獻，但不知道如何開始，在這裡我提供你幾個方向。無論你是即將要來參加的學員或是主辦方，你都可以將你的文章傳給我，讓你的文章可以被大家看見。在你將文章傳給我前，請先閱讀以下規範，否則我很可能會忽略你的訊息。
 
@@ -59,6 +65,9 @@ Content:
 
 ##### 功能回饋
 如果你覺得這個網站缺少了什麼功能，也請直接在 [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE%5D) 提出。
+
+##### FAQ 問題建議
+針對本次營隊，如果你還有什麼問題，也可以在 [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=faq_submission.md&title=%5BFAQ%5D) 提出。我們會將蒐集到的問題整合，統一交給承辦人員，並於之後放置在 [FAQ](https://climas.now.sh/faq/) 裡面。
 
 
 #### 還有問題？
