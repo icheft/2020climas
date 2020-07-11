@@ -1,4 +1,4 @@
-<!-- Begin Speakers List 2-->
+<!-- Begin Speakers List 3-->
 <section id="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
@@ -31,7 +31,7 @@
                             </a>
                             {% endfor %}
                         </figcaption>
-                        <p class="bio">{{ speaker.bio | strip_html }}</p>
+                        <p class="bio">{{ speaker.bio | strip_html | truncate: 72}}</p>
                     </figure>
                 </div>
             </div>

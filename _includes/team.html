@@ -1,11 +1,6 @@
 <!-- Begin Team List-->
 <section id="team" class="team">
     <div class="content-wrapper">
-        <!-- 部員介紹詞 -->
-        <!-- <div class="col-lg-10 col-lg-offset-1"> -->
-            <!-- <h3>{{ site.teamBlockTitle }}</h3> -->
-            <!-- <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p> -->
-        <!-- </div> -->
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">召部</h4>
             {% for teamMember in site.data.team %} {% if teamMember.exec != null %}
@@ -27,6 +22,7 @@
                             </a>
                             {% endfor %}
                         </figcaption>
+                        <p class="bio">{{ teamMember.bio | strip_html  | truncate: 72 }}</p>
                     </figure>
                 </div>
             </div>
@@ -53,6 +49,7 @@
                             </a>
                             {% endfor %}
                         </figcaption>
+                        <p class="bio">{{ teamMember.bio | strip_html | truncate: 72 }}</p>
                     </figure>
                 </div>
             </div>
@@ -79,6 +76,7 @@
                             </a>
                             {% endfor %}
                         </figcaption>
+                        <p class="bio">{{ teamMember.bio | strip_html | truncate: 72 }}</p>
                     </figure>
                 </div>
             </div>
@@ -86,4 +84,4 @@
         </div>
     </div>
 </section>
-<!-- End Team List -->
+<!-- End Team -->
