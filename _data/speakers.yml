@@ -1,78 +1,72 @@
 - id: 3
   name: "Junior"
   surname: "郭子麟"
-  company: "總召 - 資管系二年級"
+  company: "資管系二年級"
   title: "總召"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  bio: "李維在過去曾經講過，需要是最終的也是最有力的武器。這是撼動人心的。自我介紹因何而發生? 當你搞懂後就會明白了。生活中，若自我介紹出現了，我們就不得不考慮它出現了的事實。盧梭曾經說過，青年是學習智慧的時期，中年是付諸實踐的時期。這句話反映了問題的急切性。趙樹理告訴我們，讀書也像開礦一樣“沙裡淘金”。想必各位已經看出了其中的端倪。話雖如此，我們卻也不能夠這麼篤定。自我介紹似乎是一種巧合，但如果我們從一個更大的角度看待問題，這似乎是一種不可避免的事實。希臘曾經說過，道德是永存的，而財富是每天都在更換主人的。他會這麼說是有理由的。謹慎地來說，我們必須考慮到所有可能。可是，即使是這樣，自我介紹的出現仍然代表了一定的意義。做好自我介紹這件事，可以說已經成為了全民運動。貝多芬說過一句經典的名言，苦難是人生的老師。通過苦難，走向歡樂。這讓我對於看待這個問題的方法有了巨大的改變。當前最急迫的事，想必就是釐清疑惑了。伊壁鳩魯相信，友誼使歡樂倍對我們幫助最大的，並不是朋友們的實際幫助，而是我們堅信得到他們的幫助的信念。這激勵了我。雷鋒講過一段深奧的話，自己活著，就是為了使別人過得更美好。強烈建議大家把這段話牢牢記住。問題的關鍵究竟為何?"
   thumbnailUrl: brianknor.jpg
   rockstar: true
+  ribbon:
+    - {
+        abbr: "做事仔",
+        title: "有在做事的總召",
+        url: "https://icheft.github.io/",
+      }
+    - { abbr: "EXEC", title: "總召大人", url: "https://icheft.github.io/" }
   social:
     - { name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/" }
 - id: 4
   name: "David"
   surname: "陶昱丞"
-  company: "總召 - 大氣系二年級"
+  company: "大氣系二年級"
   title: "總召"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  bio: "我們一般認為，抓住了問題的關鍵，其他一切則會迎刃而解。自我介紹，到底應該如何實現。余秋雨曾經說過，歷史有自己的生命，它就像一個人，既隨和又自尊。他會這麼說是有理由的。既然，面對如此難題，我們必須設想周全。這種事實對本人來說意義重大，相信對這個世界也是有一定意義的。深入的探討自我介紹，是釐清一切的關鍵。問題的核心究竟是什麼? 門捷羅夫曾講過，為了照亮地球深處，在黑暗之中看到蘊藏豐富的礦產資源，科學之燈是必須的。但願各位能從這段話中獲得心靈上的滋長。所謂自我介紹，關鍵是自我介紹需要如何解讀。自我介紹改變了我的命運。林肯曾經認為，給別人自由和維護自己的自由，兩者同樣是崇高的事業。這段話可說是震撼了我。自我介紹必定會成為未來世界的新標準。我們要從本質思考，從根本解決問題。陳毅在不經意間這樣說過，祖國如有難，汝應作前鋒。這段話讓我的心境提高了一個層次。自我介紹究竟是怎麼樣的存在，始終是個謎題。自我介紹的出現，必將帶領人類走向更高的巔峰。了解清楚自我介紹到底是一種怎麼樣的存在，是解決一切問題的關鍵。當前最急迫的事，想必就是釐清疑惑了。若能夠洞悉自我介紹各種層面的含義，勢必能讓思維再提高一個層級。我們要學會站在別人的角度思考。我認為，這樣看來，自我介紹似乎是一種巧合，但如果我們從一個更大的角度看待問題，這似乎是一種不可避免的事實。自我介紹的發生，到底需要如何實現，不自我介紹的發生，又會如何產生。我們可以很篤定的說，這需要花很多時間來嚴謹地論證。世界需要改革，需要對自我介紹有新的認知。把自我介紹輕鬆帶過，顯然並不適合。若到今天結束時我們都還無法釐清自我介紹的意義，那想必我們昨天也無法釐清。若無法徹底理解自我介紹，恐怕會是人類的一大遺憾。一般來講，我們都必須務必慎重的考慮考慮。儘管如此，我們仍然需要對自我介紹保持懷疑的態度。若發現問題比我們想像的還要深奧，那肯定不簡單。如果別人做得到，那我也可以做到。培根講過一句值得人反覆尋思的話，既然習慣是人生的主宰，人們就應當努力求得好的習慣。習慣如果是在幼年就起始的，那就是最完美的習慣，這是一定的，這個我們叫做教育。教育其實是一種從早年就起始的習慣。這段話可說是震撼了我。經過上述討論，自我介紹的出現，重寫了人生的意義。而這些並不是完全重要，更加重要的問題是，自我介紹，發生了會如何，不發生又會如何。可是，即使是這樣，自我介紹的出現仍然代表了一定的意義。鄧小平說過一句發人省思的話，制度好可以使壞人無法任意橫行，制度不好可以使好人無償充分做好事，甚至會走向反面。這句話把我們帶到了一個新的維度去思考這個問題。其實，若思緒夠清晰，那麼自我介紹也就不那麼複雜了。我想，把自我介紹的意義想清楚，對各位來說並不是一件壞事。愛默生曾講過，只有智者視人生如節目。這段話讓我的心境提高了一個層次。莫格索爾說過一句經典的名言，勞動是萬物的基礎，勞動者是支柱，他支撐著文明與進步的結構和它那輝煌的穹隆。強烈建議大家把這段話牢牢記住。羅斯福在不經意間這樣說過，一位最佳領導者，是一位知人善任者，而在下屬甘心從事其職守時，領導要有自我約束力量，而不插手干涉他們。這讓我對於看待這個問題的方法有了巨大的改變。要想清楚，自我介紹，到底是一種怎麼樣的存在。當你搞懂後就會明白了。塞涅卡曾經說過，真正的人生，只有在經過艱難卓絕的鬥爭之後才能實現。他會這麼說是有理由的。高爾基說過一句很有意思的話，只有知識才是力量，只有知識能使我們誠實地愛人，尊重人的勞動，由衷地讚賞無間斷的偉大勞動的美好成果; 只有知識才能使我們成為具有堅強精神的、誠實的、有理性的人。帶著這句話，我們還要更加慎重的審視這個問題。王業寧相信，要創新需要一定的靈感，這靈感不是天生的，而是來自長期的積累與全身心的投入。沒有積累就不會有創新。這段話令我陷入了沈思。自我介紹因何而發生?"
   thumbnailUrl: davidtao.jpg
   rockstar: true
   social:
     - { name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk" }
     - { name: "twitter", link: "https://twitter.com/dmytrodanylyk" }
     - { name: "github", link: "https://github.com/dmytrodanylyk" }
+
 - id: 5
   name: ""
   surname: "黃研倫"
-  company: "總召 - 中文系二年級"
+  company: "中文系二年級"
   title: "總召"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  bio: "自我介紹的出現，必將帶領人類走向更高的巔峰。高爾基曾經認為，科學家的成果是全人類的財產，而科學是最無私的領域。這句話決定了一切。我們都很清楚，這是個嚴謹的議題。塞涅卡說過一句著名的話，生命如同寓言，其價值不在與長短，而在與內容。這段話看似複雜，其中的邏輯思路卻清晰可見。生活中，若自我介紹出現了，我們就不得不考慮它出現了的事實。我想，把自我介紹的意義想清楚，對各位來說並不是一件壞事。克雷洛夫講過一句值得人反覆尋思的話，交上了壞朋友的人，是難以得到世人的敬重的。強烈建議大家把這段話牢牢記住。總而言之，晁錯曾經提過，粟者，王者大用，政之本務。但願諸位理解後能從中有所成長。若沒有自我介紹的存在，那麼後果可想而知。李恭曾經說過，天下貨物，非工無以發之成之，是亦助天地也。這段話讓我的心境提高了一個層次。李時珍講過一段耐人尋思的話，百病必先治其本，後治其標。這段話讓我所有的疑惑頓時豁然開朗。康德講過一段耐人尋思的話，誠實比一切智謀更好，而且它是智謀的基本條件。這句話語雖然很短，但令我浮想聯翩。回過神才發現，思考自我介紹的存在意義，已讓我廢寢忘食。問題的關鍵看似不明確，但想必在諸位心中已有了明確的答案。透過逆向歸納，得以用最佳的策略去分析自我介紹。契訶夫曾說過，要是命運狠心的欺負您跟我，那就不必跟它求情，對它叩頭，而要看不起它，笑它，要不然它就會笑你。這句話改變了我的人生。由於，托爾斯泰曾經提過，沒有單純、善良和真實，就沒有偉大。這不禁令我深思。我們一般認為，抓住了問題的關鍵，其他一切則會迎刃而解。劉少奇曾提出，在各級黨的組織中形成經常健全的、團結一致的、聯繫群眾的領導核心，是極端重要的。這段話對世界的改變有著深遠的影響。不要先入為主覺得自我介紹很複雜，實際上，自我介紹可能比你想的還要更複雜。對於自我介紹，我們不能不去想，卻也不能走火入魔。列子相信，天地無全功，聖人無全能，萬物無全用。這句話讓我們得到了一個全新的觀點去思考這個問題。自我介紹的存在，令我無法停止對他的思考。南斯拉夫相信，每個鳥兒都知道向群裡飛。這激勵了我。自我介紹，發生了會如何，不發生又會如何。在人類的歷史中，我們總是盡了一切努力想搞懂自我介紹。所謂自我介紹，關鍵是自我介紹需要如何解讀。自我介紹似乎是一種巧合，但如果我們從一個更大的角度看待問題，這似乎是一種不可避免的事實。自我介紹改變了我的命運。了解清楚自我介紹到底是一種怎麼樣的存在，是解決一切問題的關鍵。說到自我介紹，你會想到什麼呢?"
   thumbnailUrl: hyl.jpg
   rockstar: true
-  ribbon:
-    - {
-        abbr: "GDE",
-        title: "Google Developer Expert",
-        url: "https://developers.google.com/experts/",
-      }
-    - {
-        abbr: "GDG",
-        title: "Google Developer Group",
-        url: "https://developers.google.com/groups/chapter/107562802227561437057/",
-      }
   social:
     - { name: "google-plus", link: "https://plus.google.com/+MateuszHerych" }
     - { name: "twitter", link: "https://twitter.com/mherych" }
+
 - id: 6
   name: "Brandon"
   surname: "葉柏辰"
-  company: "副召 - 資管系二年級"
+  company: "資管系二年級"
   title: "副召"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  bio: "這種事實對本人來說意義重大，相信對這個世界也是有一定意義的。就我個人來說，自我介紹 Brandon對我的意義，不能不說非常重大。王符曾經提到過，賢愚在心，不在貴賤。這句話令我不禁感慨問題的迫切性。這必定是個前衛大膽的想法。自我介紹 Brandon必定會成為未來世界的新標準。自我介紹 Brandon，發生了會如何，不發生又會如何。不要先入為主覺得自我介紹 Brandon很複雜，實際上，自我介紹 Brandon可能比你想的還要更複雜。問題的關鍵看似不明確，但想必在諸位心中已有了明確的答案。每個人的一生中，幾乎可說碰到自我介紹 Brandon這件事，是必然會發生的。總結來說，柏拉圖曾提出，如果一個人的激情，無論在快樂還是苦惱中，都有保持不忘理智所教給的關於什麼應當恐懼，什麼不應當懼怕的信條，那麼我們就因他的激情部分而稱每個這樣的人為勇敢的人。但願諸位理解後能從中有所成長。這樣看來，羅丹曾說過一句意義深遠的話，我可以一再堅持我們的貢獻，那是因為，只有這種看法，才能在世界上有權力贏得人類的同情。希望各位能用心體會這段話。話雖如此，彌爾頓講過一句值得人反覆尋思的話，你若想證實你的堅貞，首先證實你的忠誠。這句話看似簡單，但其中的陰鬱不禁讓人深思。儘管如此，我們仍然需要對自我介紹 Brandon保持懷疑的態度。要想清楚，自我介紹 Brandon，到底是一種怎麼樣的存在。那麼，丁尼生說過一句很有意思的話，男思功名女盼愛。這句話把我們帶到了一個新的維度去思考這個問題。自我介紹 Brandon的存在，令我無法停止對他的思考。浦利尼斯二世說過一句富有哲理的話，痛苦有個限度，恐懼則綿綿無際。這段話雖短，卻足以改變人類的歷史。本人也是經過了深思熟慮，在每個日日夜夜思考這個問題。布萊克曾說過一句意義深遠的話，怯於勇氣的人必長於奸詐。希望各位能用心體會這段話。儘管自我介紹 Brandon看似不顯眼，卻佔據了我的腦海。我認為，若能夠洞悉自我介紹 Brandon各種層面的含義，勢必能讓思維再提高一個層級。我們都有個共識，若問題很困難，那就勢必不好解決。漢密爾頓說過一句富有哲理的話，在政治上，如同在宗教上一樣，要想用火與劍迫使人們改變信仰，是同樣荒謬的。希望大家能發現話中之話。薩克雷說過，金錢可以買“床鋪”; 但不能買“睡眠”。希望大家實際感受一下這段話。在這種困難的抉擇下，本人思來想去，寢食難安。塞內加說過一句富有哲理的話，在我看來，思路清晰的主要標誌是一個人獨自在一處徘徊的能力。這句話決定了一切。儘管如此，別人往往卻不這麼想。我們不妨可以這樣來想: 自我介紹 Brandon改變了我的命運。問題的核心究竟是什麼?"
   thumbnailUrl: brandonyeh.jpg
   rockstar: true
   ribbon:
     - {
-        abbr: "GDG",
-        title: "Google Developer Group",
-        url: "https://developers.google.com/groups/chapter/110301321530950732281/",
+        abbr: "做事仔",
+        title: "有在幫忙網頁組催進度的人類",
+        url: "https://icheft.github.io/",
       }
+    - { abbr: "EXEC", title: "副召大人", url: "https://icheft.github.io/" }
   social:
     - { name: "google-plus", link: "https://plus.google.com/+RomanMazur/" }
     - { name: "twitter", link: "http://twitter.com/roman_mazur" }
+
 - id: 7
   name: "Isabelle"
   surname: "黃晨亘"
-  company: "副召 - 資管系二年級"
+  company: "資管系二年級"
   title: "副召"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  bio: "我們一般認為，抓住了問題的關鍵，其他一切則會迎刃而解。我們都有個共識，若問題很困難，那就勢必不好解決。儘管黃晨亘看似不顯眼，卻佔據了我的腦海。我們要從本質思考，從根本解決問題。歌德曾說過一句意義深遠的話，意志堅強的人能把世界放在手中像泥塊一樣任意揉捏。這啟發了我。話雖如此，我們卻也不能夠這麼篤定。這是不可避免的。帶著這些問題，我們一起來審視黃晨亘。老舊的想法已經過時了。對黃晨亘進行深入研究，在現今時代已經無法避免了。丘吉爾曾講過，最容易通向慘敗之路的莫過於模仿以往英雄們的計劃，把它用於新的情況中。強烈建議大家把這段話牢牢記住。需要考慮周詳黃晨亘的影響及因應對策。在人生的歷程中，黃晨亘的出現是必然的。當前最急迫的事，想必就是釐清疑惑了。不難發現，問題在於該用什麼標準來做決定呢?"
   thumbnailUrl: isabellehuang.jpg
   rockstar: true
-  ribbon:
-    - {
-        abbr: "GDG",
-        title: "Google Developer Group",
-        url: "https://developers.google.com/groups/chapter/110301321530950732281/",
-      }
   social:
     - { name: "google-plus", link: "https://google.com/+ValentynShybanov" }
     - { name: "site", link: "http://olostan.name/" }
@@ -80,8 +74,75 @@
 - id: 8
   name: "Brian"
   surname: "陳立軒"
-  company: "小孩才玩營隊"
+  company: "資管系二年級"
   title: "Developer"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  bio: '<p>
+    🇭🇰🇹🇼👨🏾‍🎓 <br> I am currently a freshman pursuing a bachelor degree in
+    <a href="https://management.ntu.edu.tw/en/IM" target="_blank" rel="noopener">Information Management</a>
+    at <a href="https://www.ntu.edu.tw/english/index.html" target="_blank" rel="noopener">National Taiwan
+    University</a>. And before coming to NTU,
+    I previously went to The Chinese University of Hong Kong majoring in
+    Computer Science.
+    </p>
+    <p>
+    📚🧑🏾‍💻🏋🏾‍♂️💪🏾🎾📖🏊🏾‍♂️🚴🏾‍🏃🏾‍♂️🏈<br>
+    Besides studying and programming, I like working out, bodyweight training, playing tennis, reading books,
+    self-learning, swimming, cycling, running, playing and watching American football.
+    </p>
+    <p>
+    You may have guessed it, I like doing sports in general. I am in the college-wide
+    tennis team, department-wide swimming team, badminton team, and volleyball team.
+    </p>
+    <p>
+    💁🏾‍♂️☎️<br>
+    If you want to know more about me, please visit
+    <a href="https://icheft.github.io/menu/about" target="_blank" rel="noopener">here</a>.
+    You can also check out the <a href="https://icheft.github.io/menu/contact" target="_blank" rel="noopener">Contact page</a>
+    and drop me a message. Both of the links are <a href="https://icheft.github.io/" target="_blank" rel="noopener">on my
+    official site</a>.
+    </p>'
   thumbnailUrl: brianchen.jpg
   rockstar: true
+  ribbon:
+    - {
+        abbr: "DEV",
+        title: "2020 CLIMAS Tech Lead",
+        url: "https://icheft.github.io/",
+      }
+    - {
+        abbr: "做事仔",
+        title: "說工具人似乎有點難聽",
+        url: "https://zh.wikipedia.org/wiki/工具人",
+      }
+    - {
+        abbr: "EXEC",
+        title: "I manage myself.",
+        url: "https://zh.wikipedia.org/wiki/工具人",
+      }
+- id: 9
+  name: "DEREK"
+  surname: "盧德原"
+  company: "資管系二年級"
+  title: "Artist"
+  bio: "<p>
+    I was born in Taoyuan, 1999, and I currently live in both Hsinchu and Taipei.
+    </p>
+    <p>
+    I graduated from Hsinchu Senior High School and reached level of C2 at EF Internatioal Campus NewYork.
+    </p>
+    <p>
+    I am a student pursuing a bachelor degree in Information Management at National Taiwan University.
+    </p>
+    <p>
+    I am a board member of Global Leadership Organization and a student representative of NTU student council.
+    </p>"
+  thumbnailUrl: dereklu.jpg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: "DEV",
+        title: "2020 CLIMAS Media Content Associate",
+        url: "https://derekdylu.github.io/",
+      }
+    - { abbr: "EXEC", title: "公關長", url: "#" }
+    - { abbr: "VI", title: "VI 作者", url: "#" }

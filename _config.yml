@@ -33,7 +33,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://climas.now.sh/2020/07/11/if-youd-like-to-contribute-zh_tw/"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
@@ -41,6 +41,7 @@ navigationLinks:
   - { permalink: "/", text: "首頁" }
   - { permalink: "/schedule/", text: "活動流程" }
   - { permalink: "/team/", text: "認識團隊" }
+  - { permalink: "/rockstars/", text: "WE ROCK" }
   - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/downloads/", text: "下載區" }
   - { permalink: "/faq/", text: "FAQ" }
@@ -102,10 +103,11 @@ statisticBlock:
 latestNewsTitle: "最新消息"
 
 # Rockstar Speakers Block
-rockstarSpeakersTitle: "認識我們"
+rockstarSpeakersTitle: "加入我們"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersButtonText: "查看我們團隊"
+rockstarSpeakersButtonText1: "查看我們團隊"
+rockstarSpeakersButtonText2: "WE ROCK 成員"
 
 # Location Block
 locationBlockTitle: "地點連結"
@@ -226,7 +228,7 @@ blogCommentsEnabled: true
 discusShortName: "climas"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "關於我們"
