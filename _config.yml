@@ -41,7 +41,7 @@ navigationLinks:
   - { permalink: "/", text: "首頁" }
   - { permalink: "/schedule/", text: "活動流程" }
   - { permalink: "/team/", text: "認識團隊" }
-  - { permalink: "/blog/", text: "想說的話" }
+  - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/downloads/", text: "下載區" }
   - { permalink: "/faq/", text: "FAQ" }
 bottomNavigationLinks:

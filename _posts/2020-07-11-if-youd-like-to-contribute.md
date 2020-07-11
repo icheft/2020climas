@@ -17,7 +17,7 @@ isStaticPost: false
   - [FAQ Submission](#faq-submission)
 - [Any questions?](#any-questions)
 
-**想說的話** workspace needs your decorations!
+**最新消息** page needs your decorations!
 
 2020 CLIMAS Camp will be held 11-13th of September in Taichung. If you want to be part of this amazing event but don't know how, here is one way to do it. Every one of you, including the organizers and students from all over Taiwan (the world), can submit your very own work to me at [brian.lxchen@gmail.com](mailto:brian.lxchen@gmail.com). Behold, please see the instructions or otherwise, I might not be able to receive your work.
 
