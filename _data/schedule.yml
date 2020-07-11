@@ -10,6 +10,11 @@
     	sessionIds: [001]
     }
     - {
+    	startTime: "10:30",
+    	# endTime: "10:30",
+    	sessionIds: [304]
+    }
+    - {
         startTime: "11:00",
         endTime: "12:00",
         sessionIds: [002]
@@ -50,6 +55,11 @@
   tracks: 
     - {title: "活動名稱", color: "#03a9f4"}
   timeslots: 
+    - {
+    	startTime: "07:00",
+    	# endTime: "09:00",
+    	sessionIds: [305]
+    }
     - {
     	startTime: "08:00",
     	endTime: "09:00",
@@ -92,6 +102,11 @@
     - {title: "活動名稱", color: "#03a9f4"}
   timeslots:
     - {
+    	startTime: "07:00",
+    	# endTime: "09:00",
+    	sessionIds: [305]
+    }
+    - {
     	startTime: "08:00",
     	endTime: "09:00",
     	sessionIds: [306]
@@ -115,4 +130,9 @@
     	startTime: "14:30",
     	endTime: "15:30",
     	sessionIds: [011]
+    }
+    - {
+    	startTime: "16:00",
+    	# endTime: "15:30",
+    	sessionIds: [310]
     }

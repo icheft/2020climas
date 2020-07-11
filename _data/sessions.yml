@@ -1,32 +1,50 @@
+- id: 304
+  title: "抵達流星花園"
+  description: "想辦法去這裡 👉🏽 <code>台中市豐原區水源路坪頂巷8號</code>"
+  # place: "餐廳"
+  service: true
+
+- id: 305
+  title: "起床"
+  # place: "餐廳"
+  service: true
+  description: "珍惜早起的時光，這可能是你今年最後一次七點起床。"
+
 - id: 306
   title: "集合＋吃早餐"
-  place: "餐廳"
+  # place: "餐廳"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "賭你各位一定是睡眼惺忪 xD"
 
 - id: 307
   title: "中餐"
-  place: "餐廳"
+  # place: "餐廳"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "吃飯就吃飯，有什麼好解釋的。跟隊輔趁機喇賽的好時機。"
 
 - id: 308
   title: "晚餐"
-  place: "餐廳"
+  # place: "餐廳"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "同中餐"
 
 - id: 3081
   title: "晚餐（烤肉）"
-  place: "餐廳"
+  # place: "餐廳"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "本質上就是晚餐的一種。<br>為什麼不天天烤肉？每天烤肉會得癌症的。"
 
 - id: 309
   title: "宵夜"
-  place: "餐廳"
+  # place: "餐廳"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "宵夜... 祝大家變大胖子 🤪"
+
+- id: 310
+  title: "返家/校"
+  # place: "餐廳"
+  service: true
+  description: "收心準備明天開學ㄅ。<br>欸，其實你要返家不是不可以啦，資管系禮拜一應該是有會計課的，你只要不要像我大盧導睡掉基本上都沒事。"
 
 - id: 503
   title: "Not Found"
@@ -36,13 +54,15 @@
 
 - id: 001
   title: "啟程"
-  place: "遊覽車"
+  # place: "遊覽車"
   service: true
-  description: "出發點：台大；目的地：流星花園"
+  description: "條條大路通羅馬。你只要可以到流星花園即可！"
+
 - id: 002
   title: "大型破冰 + 開幕"
   service: true
   description: "以為破冰遊戲可以化解尷尬嗎？不，破冰本身就是個尷尬的環節。"
+
 - id: 003
   title: "大地"
   service: true
@@ -50,7 +70,7 @@
 - id: 004
   title: "策略"
   service: true
-  description: "輪流寫故事的那個。我也不是很確定。"
+  description: "好像是大家合力寫一個很假掰的故事，沒了。"
 - id: 005
   title: "密室假案"
   service: true
@@ -58,7 +78,7 @@
 - id: 006
   title: "RPG"
   service: true
-  description: "正版 RPG 手遊ㄎㄎ"
+  description: "RPG 我不懂，但 <a href='https://www.ptt.cc/bbs/NTU/M.1504087401.A.60E.html'>NPC</a> 倒是知道不少"
 - id: 007
   title: "賭場 ＋ 競標"
   service: true
@@ -74,7 +94,7 @@
   title: "水大地"
   service: true
   place: "大型災難現場"
-  description: "玩水玩水"
+  description: "玩水玩水 👉🏽 著涼 👉🏽 感冒"
 - id: 010
   title: "閉幕"
   service: true
