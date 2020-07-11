@@ -50,7 +50,7 @@ rightNavigationButtons:
   - { link: "https://climas.now.sh/#tickets", text: "馬上報名" }
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "2020 CLIMAS"
 eventDate: "Sept. 11 - 13, 2020"
 typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
