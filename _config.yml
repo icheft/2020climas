@@ -167,14 +167,9 @@ ticketsOffers:
     featured: true
     buyButtonLink: "#"
     buyButtonText: "馬上報名"
-    ticketContentList:
-      [
-        "Lorem ipsum is simply",
-        "Dummy text of the printing",
-        "Typesetting industry",
-      ]
+    ticketContentList: ["呃", "那個", "歡迎報名喔！"]
     validFrom: "2020-07-15T00:00"
-    validThrough: "2020-09-13T23:59"
+    validThrough: "2020-08-28T23:59"
     disabled: false
 
 ticketsInfoText:
