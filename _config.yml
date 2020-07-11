@@ -165,7 +165,7 @@ ticketsOffers:
     ticketsNumber: "100"
     # ribbon: "心動不如馬上行動！"
     featured: true
-    buyButtonLink: "http://dfua.ticketforevent.com/"
+    buyButtonLink: "#"
     buyButtonText: "馬上報名"
     ticketContentList:
       [
