@@ -34,7 +34,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://climas.now.sh/2020/07/11/if-youd-like-to-contribute-zh_tw/"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:brian.lxchen@gmail.com"
 
 # Navigation
 navigationLinks:
@@ -156,9 +156,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "主辦團隊"
+partnersTitle: "合作夥伴"
+partnersC4sponsorsButton: "我想贊助！"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -217,11 +217,6 @@ socialLinks:
 footerBlocks:
   - title: "友情贊助"
     links:
-      - {
-          link: "http://www.management.ntu.edu.tw/IM",
-          text: "台大資訊管理學系系辦",
-        }
-      - { link: "https://ntu.im/home/", text: "台大資訊管理學系系學會" }
       - {
           link: "https://paypal.me/brianlxchen?locale.x=en_US",
           text: "都要沒錢了還不拉贊助，那就來贊助創作者吧",
