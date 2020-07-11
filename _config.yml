@@ -160,7 +160,7 @@ ticketsInfoTitle: "報名資訊"
 ticketsInfo: "我們目前採用第三方平台。若報名之後一天內沒有收到 Email 通知，請聯繫粉專或相關承辦人員！"
 ticketsOffers:
   - name: "報名連結"
-    price: "3,900 "
+    price: "3,700 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
     # ribbon: "心動不如馬上行動！"
@@ -182,7 +182,7 @@ ticketsInfoText:
   - name: "報名截止日期"
     detail: "2020・8/28（五）"
   - name: "營隊費用"
-    detail: "新台幣3900元整"
+    detail: "新台幣 3,700 元整"
   - name: "注意事項"
     detail: "報名完成後，請填妥新生家長同意書於活動開始時帶至現場繳交。若有需要提前離營，請一併填寫提前離營切結書且於活動開始時帶至現場繳交"
 
