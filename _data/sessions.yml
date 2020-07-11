@@ -1,41 +1,41 @@
 - id: 304
-  title: "抵達流星花園"
+  title: "抵達流星花園 💫"
   description: "想辦法去這裡 👉🏽 <code>台中市豐原區水源路坪頂巷8號</code>"
   # place: "餐廳"
   service: true
 
 - id: 305
-  title: "起床"
+  title: "起床 🛏"
   # place: "餐廳"
   service: true
   description: "珍惜早起的時光，這可能是你今年最後一次七點起床。"
 
 - id: 306
-  title: "集合＋吃早餐"
+  title: "集合 ＋ 吃早餐 🍳"
   # place: "餐廳"
   service: true
   description: "賭你各位一定是睡眼惺忪 xD"
 
 - id: 307
-  title: "中餐"
+  title: "中餐 🍱"
   # place: "餐廳"
   service: true
   description: "吃飯就吃飯，有什麼好解釋的。跟隊輔趁機喇賽的好時機。"
 
 - id: 308
-  title: "晚餐"
+  title: "晚餐 🍛"
   # place: "餐廳"
   service: true
   description: "同中餐"
 
 - id: 3081
-  title: "晚餐（烤肉）"
+  title: "晚餐（烤肉） 🥓"
   # place: "餐廳"
   service: true
   description: "本質上就是晚餐的一種。<br>為什麼不天天烤肉？每天烤肉會得癌症的。"
 
 - id: 309
-  title: "宵夜"
+  title: "宵夜 🥮"
   # place: "餐廳"
   service: true
   description: "宵夜... 祝大家變大胖子 🤪"
@@ -59,39 +59,39 @@
   description: "條條大路通羅馬。你只要可以到流星花園即可！"
 
 - id: 002
-  title: "大型破冰 + 開幕"
+  title: "大型破冰 + 開幕 🧊"
   service: true
   description: "以為破冰遊戲可以化解尷尬嗎？不，破冰本身就是個尷尬的環節。"
 
 - id: 003
-  title: "大地"
+  title: "大地 👣"
   service: true
   description: "讓你知道流星花園的地真的很大。"
 - id: 004
-  title: "策略"
+  title: "策略 🧠"
   service: true
-  description: "好像是大家合力寫一個很假掰的故事，沒了。"
+  description: "絞緊腦汁，讓故事走向自己的目標結局ㄅ！<br>前提是，你要先博得評審歡心，評審的品味真的是世界無敵怪。"
 - id: 005
-  title: "密室假案"
+  title: "密室假案 👻"
   service: true
-  description: "「欸假案很可怕捏」"
+  description: "「欸假案很可怕捏」<br>「假案：顧名思義就是<strong>假（fake）</strong>的。是有什麼好怕。」"
 - id: 006
-  title: "RPG"
+  title: "RPG 👾"
   service: true
   description: "RPG 我不懂，但 <a href='https://www.ptt.cc/bbs/NTU/M.1504087401.A.60E.html'>NPC</a> 倒是知道不少"
 - id: 007
-  title: "賭場 ＋ 競標"
+  title: "賭場 ＋ 競標 🤑"
   service: true
   place: "澳門"
   description: "大學生不好好讀書在那邊賭博"
 
 - id: 008
-  title: "晚會"
+  title: "晚會 🕺🏾"
   service: true
   place: "大型晚會現場"
   description: "好期待表演喔！"
 - id: 009
-  title: "水大地"
+  title: "水大地 🌊"
   service: true
   place: "大型災難現場"
   description: "玩水玩水 👉🏽 著涼 👉🏽 感冒"
@@ -100,6 +100,6 @@
   service: true
   description: "這次旅程的結束，是下段旅程的開始！"
 - id: 011
-  title: "解惑"
+  title: "解惑 🤯"
   service: true
   description: "隔天就開學了，希望學員們可以快速上手大學生活，準備登入大一！"
