@@ -6,8 +6,6 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
-    - { name: "linkedin", link: "http://zasadnyy.com/" }
 - id: 1
   name: "David"
   surname: "陶昱丞"
@@ -17,7 +15,6 @@
   social:
     - { name: "github", link: "https://github.com/ozasadnyy" }
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
     - { name: "site", link: "http://zasadnyy.com/" }
 - id: 2
   name: ""
@@ -27,7 +24,6 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
 
 - id: 3
   name: "Brandon"
@@ -37,9 +33,8 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
     - { name: "github", link: "http://zasadnyy.com/" }
-    - { name: "linkedin", link: "http://zasadnyy.com/" }
+
 - id: 4
   name: "Isabelle"
   surname: "黃晨亘"
@@ -48,7 +43,7 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 5
   name: ""
   surname: "彭浚濡"
@@ -57,7 +52,7 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 6
   name: "Rick"
   surname: "楊煜專"
@@ -66,7 +61,7 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 7
   name: ""
   surname: "饒唐宇"
@@ -75,7 +70,6 @@
   exec: true
   social:
     - { name: "facebook", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
 
 - id: 8
   name: "Christine"
@@ -85,7 +79,7 @@
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/christine891225" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 9
   name: ""
   surname: "詹舜凱"
@@ -97,7 +91,7 @@
         name: "facebook",
         link: "https://www.facebook.com/profile.php?id=100003107941277",
       }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 10
   name: ""
   surname: "楊紫綺"
@@ -106,10 +100,7 @@
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/mia.yang.0325" }
-    - {
-        name: "rss",
-        link: "https://www.instagram.com/miayang_0325/?fbclid=IwAR1Md16m9zm19JWKBlZZ7u0CY0o6U-DKg7lL1LM3afSS4mF1dDVfRhoepRw",
-      }
+
 - id: 11
   name: "Derek"
   surname: "盧德原"
@@ -119,9 +110,8 @@
   social:
     - { name: "facebook", link: "https://www.facebook.com/derekdylu" }
     - { name: "github", link: "https://twitter.com/zasadnyy" }
-    - { name: "linkedin", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
     - { name: "site", link: "http://zasadnyy.com/" }
+
 - id: 12
   name: ""
   surname: "傅道正"
@@ -132,7 +122,7 @@
     - { name: "facebook", link: "https://www.facebook.com/tcNTP" }
     - { name: "github", link: "https://twitter.com/zasadnyy" }
     - { name: "site", link: "https://twitter.com/zasadnyy" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 13
   name: ""
   surname: "李安婕"
@@ -144,7 +134,7 @@
         name: "facebook",
         link: "https://www.facebook.com/profile.php?id=100003958746252",
       }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 14
   name: ""
   surname: "陳亮瑜"
@@ -153,7 +143,7 @@
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/chen.sheng.969" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 15
   name: ""
   surname: "張熙元"
@@ -165,7 +155,7 @@
         name: "facebook",
         link: "https://www.facebook.com/profile.php?id=100003540591415",
       }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 16
   name: ""
   surname: "馬丞楷"
@@ -177,7 +167,7 @@
         name: "facebook",
         link: "https://www.facebook.com/profile.php?id=100007086546935",
       }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 17
   name: ""
   surname: "李書成"
@@ -186,7 +176,7 @@
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/shuuuupiiiii" }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 18
   name: ""
   surname: "黃子強"
@@ -198,7 +188,7 @@
         name: "facebook",
         link: "https://www.facebook.com/profile.php?id=100006613961518&sk=photos_albums&lst=100002894420772%3A100006613961518%3A1594402655",
       }
-    - { name: "rss", link: "http://zasadnyy.com/" }
+
 - id: 19
   name: ""
   surname: "董宇然"
@@ -210,7 +200,6 @@
         name: "facebook",
         link: "https://www.facebook.com/profile.php?id=100002951336823",
       }
-    - { name: "rss", link: "http://zasadnyy.com/" }
 
 - id: 99
   name: "Brian"
@@ -219,10 +208,9 @@
   thumbnailUrl: brianchen.jpg
   dev: true
   social:
-    - { name: "rss", link: "https://plus.google.com/+DmytroDanylyk" }
-    - { name: "github", link: "https://github.com/dmytrodanylyk" }
-    - { name: "facebook", link: "https://github.com/dmytrodanylyk" }
-    - { name: "site", link: "http://zasadnyy.com/" }
+    - { name: "github", link: "https://github.com/icheft" }
+    - { name: "facebook", link: "https://facebook.com/brian.lxchen" }
+    - { name: "site", link: "https://icheft.github.io/" }
 
 - id: 100
   name: ""
@@ -231,7 +219,6 @@
   thumbnailUrl: wqy.jpg
   dev: true
   social:
-    - { name: "rss", link: "https://plus.google.com/+DmytroDanylyk" }
     - { name: "github", link: "https://github.com/dmytrodanylyk" }
     - { name: "facebook", link: "https://github.com/dmytrodanylyk" }
     - { name: "site", link: "http://zasadnyy.com/" }
