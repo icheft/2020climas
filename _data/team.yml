@@ -275,7 +275,7 @@
     - { name: "site", link: "https://icheft.github.io/" }
 
 - id: 100
-  name: ""
+  name: "Chien-Yin"
   surname: "巫芊瑩"
   title: "Developer"
   thumbnailUrl: wqy.jpg
@@ -287,6 +287,5 @@
         url: "https://climas.now.sh/",
       }
   social:
-    - { name: "github", link: "https://github.com/dmytrodanylyk" }
-    - { name: "facebook", link: "https://github.com/dmytrodanylyk" }
-    - { name: "site", link: "http://zasadnyy.com/" }
+    - { name: "github", link: "https://github.com/yin1218" }
+    - { name: "facebook", link: "https://www.facebook.com/wpbag" }
