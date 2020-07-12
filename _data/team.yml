@@ -272,8 +272,8 @@
       }
   social:
     - { name: "github", link: "https://github.com/icheft" }
-    - { name: "facebook", link: "https://facebook.com/brian.lxchen" }
     - { name: "site", link: "https://icheft.github.io/" }
+    - { name: "facebook", link: "https://facebook.com/brian.lxchen" }
 
 - id: 100
   name: "Chien-Yin"
