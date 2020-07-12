@@ -36,7 +36,7 @@
 					{% elsif ticketsOffer.disabled != true %}
 					<a
 						class="button"
-						href="{{ ticketsOffer.permalink }}"
+						href="{{ ticketsOffer.permalink | prepend: site.baseurl }}"
 						target="_blank"
 						>{{ ticketsOffer.buyButtonText }}</a
 					>

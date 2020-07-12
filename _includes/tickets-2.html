@@ -46,7 +46,7 @@
 							{% elsif ticketsOffer.disabled != true %}
 							<span class="bordered dark-border button">
 								<a
-									href="{{ ticketsOffer.permalink }}"
+									href="{{ ticketsOffer.permalink | prepend: site.baseurl }}"
 									class="waves-effect waves-button"
 									target="_blank"
 									>{{ ticketsOffer.buyButtonText }}</a
