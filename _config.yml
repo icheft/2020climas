@@ -173,23 +173,23 @@ ticketsOffers:
     ticketsNumber: "100"
     # ribbon: "不搭車"
     featured: true
-    buyButtonLink: "#"
-    buyButtonText: "報名尚未開放"
+    buyButtonLink: "/application/3700"
+    buyButtonText: "點我進入報名頁面"
     ticketContentList: []
-    validFrom: "2020-07-15T00:00"
+    validFrom: "2020-07-10T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: true
+    disabled: false
   - name: "報名連結"
     price: "4,000 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
     ribbon: "搭車"
-    buyButtonLink: "#"
-    buyButtonText: "報名尚未開放"
+    buyButtonLink: "/application/4000"
+    buyButtonText: "點我進入報名頁面"
     ticketContentList: []
     validFrom: "2020-07-15T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: true
+    disabled: false
 
 ticketsInfoText:
   - name: "報名資格"
