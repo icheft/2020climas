@@ -56,8 +56,9 @@ eventDate: "Sept. 11 - 13, 2020"
 typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
 typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
+  - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/#tickets", text: "馬上報名" }
-  - { permalink: "/blog/", text: "前往粉專" }
+  - { permalink: "mailto:brian.lxchen@gmail.com", text: "我想贊助" }
 
 # About Block
 aboutTitle: "營隊簡介"

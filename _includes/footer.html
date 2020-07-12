@@ -23,15 +23,8 @@
 				<li>
 					<a
 						href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}"
-						{%
-						if
-						linkElement.link
-						!="null"
-						%}
-						target="_blank"
-						{%
-						endif
-						%}
+						{% if linkElement.permalink == null %} target="_blank"
+						{% endif %}
 						>{{ linkElement.text }}</a
 					>
 				</li>
