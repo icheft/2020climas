@@ -1,10 +1,10 @@
 - id: 0
-  name: "Junior"
+  name: "Brian"
   surname: "郭子麟"
   title: "總召 - 資管系二年級"
   thumbnailUrl: brianknor.jpg
   exec: true
-  bio: "嗨！我是來自資管的郭子麟。身為新竹人的我，在台大生活一年最無法忍受的就是竟然沒什麼人知道巨城！！？WTF，是新竹人的都知道巨城就是我們新竹的信仰中心，他或許沒有印度恆河般地神聖，但它確實在為期 12 天的周年慶中締造了 22.8 億的銷量奇蹟啊！這僅僅是巨城的冰山一角，卻也開創了嶄新的歷史，更是順理成章被時代記載而成為了你們學測英文的作文題目阿孩子！好吧，你可能會問我這段話想表達甚麼？我想說的只是如果你喜歡Hiphop文化或是街舞，特別是breaking，那我們一定可以成為好朋友的！我本身對饒舌算是小有研究，偶爾也會寫寫歌來澎湃，逗逗女孩！然後我也是台大地板社的教學，真心推薦各位加入台大地板，保證你的台大生活可以過得多采多姿！好拉哈哈大概是這樣，之後資管系上有任何問題都歡迎隨時問我，然後給我去報名宿營 ❤"
+  bio: "嗨！我是來自資管的郭子麟。身為新竹人的我，在台大生活一年最無法忍受的就是竟然沒什麼人知道巨城！！？WTF，是新竹人的都知道巨城就是我們新竹的信仰中心，他或許沒有印度恆河般地神聖，但它確實在為期 12 天的周年慶中締造了 22.8 億的銷量奇蹟啊！這僅僅是巨城的冰山一角，卻也開創了嶄新的歷史，更是順理成章被時代記載而成為了你們學測英文的作文題目阿孩子！好吧，你可能會問我這段話想表達甚麼？我想說的只是如果你喜歡 Hiphop 文化或是街舞，特別是 breaking，那我們一定可以成為好朋友的！我本身對饒舌算是小有研究，偶爾也會寫寫歌來澎湃，逗逗女孩！然後我也是台大地板社的教學，真心推薦各位加入台大地板，保證你的台大生活可以過得多采多姿！好拉哈哈大概是這樣，之後資管系上有任何問題都歡迎隨時問我，然後給我去報名宿營 ❤"
   social:
     - { name: "facebook", link: "https://www.facebook.com/bryant.konr" }
 
@@ -141,7 +141,7 @@
   name: "Andy"
   surname: "詹舜凱"
   title: "活動長 - 大氣系二年級"
-  thumbnailUrl: zsk.png
+  thumbnailUrl: zsk.jpg
   activity: true
   social:
     - {
@@ -173,7 +173,7 @@
   name: "Jay"
   surname: "傅道正"
   title: "公關長 - 大氣系二年級"
-  thumbnailUrl: fdj.png
+  thumbnailUrl: fdj.jpg
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/tcNTP" }
@@ -204,7 +204,7 @@
   name: "Erica"
   surname: "周子涵"
   title: "庶務長 - 大氣系二年級"
-  thumbnailUrl: zzh.png
+  thumbnailUrl: zzh.jpg
   activity: true
   social:
     - {
@@ -228,7 +228,7 @@
   name: "Sean"
   surname: "李書成"
   title: "隊輔長 - 資管系二年級"
-  thumbnailUrl: seanlee.png
+  thumbnailUrl: seanlee.jpg
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/shuuuupiiiii" }
