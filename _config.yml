@@ -185,7 +185,7 @@ ticketsOffers:
     buyButtonLink: "#"
     buyButtonText: "報名尚未開放"
     ticketContentList: []
-    validFrom: "2020-07-15T00:00"
+    validFrom: "2020-07-17T00:00"
     validThrough: "2020-08-28T23:59"
     disabled: true
   - name: "報名連結"
@@ -196,7 +196,7 @@ ticketsOffers:
     buyButtonLink: "#"
     buyButtonText: "報名尚未開放"
     ticketContentList: []
-    validFrom: "2020-07-15T00:00"
+    validFrom: "2020-07-17T00:00"
     validThrough: "2020-08-28T23:59"
     disabled: true
 
