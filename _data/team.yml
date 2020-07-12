@@ -39,6 +39,11 @@
   thumbnailUrl: hyl.jpg
   exec: true
   bio: "你們先報名 ， 我再跟你介紹<br>他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小他媽的跩三小"
+  ribbon: 
+    - {
+        abbr: "尛",
+        title: "也不知道在秋三小秋",
+      }
   social:
     - { name: "facebook", link: "https://www.facebook.com/profile.php?id=100009622753052" }
 
@@ -133,10 +138,10 @@
     - { name: "facebook", link: "https://www.facebook.com/christine891225" }
 
 - id: 9
-  name: ""
+  name: "Andy"
   surname: "詹舜凱"
   title: "活動長 - 大氣系二年級"
-  thumbnailUrl: zsk.jpg
+  thumbnailUrl: zsk.png
   activity: true
   social:
     - {
@@ -145,7 +150,7 @@
       }
 
 - id: 10
-  name: ""
+  name: "Mia"
   surname: "楊紫綺"
   title: "活動長 - 中文系二年級"
   thumbnailUrl: yzq.jpg
@@ -161,22 +166,21 @@
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/derekdylu" }
-    - { name: "github", link: "https://twitter.com/zasadnyy" }
-    - { name: "site", link: "http://zasadnyy.com/" }
+    - { name: "github", link: "https://github.com/derekdylu" }
+    - { name: "site", link: "https://derekdylu.github.io" }
 
 - id: 12
-  name: ""
+  name: "Jay"
   surname: "傅道正"
   title: "公關長 - 大氣系二年級"
-  thumbnailUrl: fdj.jpg
+  thumbnailUrl: fdj.png
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/tcNTP" }
-    - { name: "github", link: "https://twitter.com/zasadnyy" }
-    - { name: "site", link: "https://twitter.com/zasadnyy" }
+
 
 - id: 13
-  name: ""
+  name: "Angel"
   surname: "李安婕"
   title: "公關長 - 中文系二年級"
   thumbnailUrl: laj.jpg
@@ -188,7 +192,7 @@
       }
 
 - id: 14
-  name: ""
+  name: "Cindy"
   surname: "陳亮瑜"
   title: "庶務長 - 資管系二年級"
   thumbnailUrl: cly.jpg
@@ -197,19 +201,19 @@
     - { name: "facebook", link: "https://www.facebook.com/chen.sheng.969" }
 
 - id: 15
-  name: ""
-  surname: "張熙元"
+  name: "Erica"
+  surname: "周子涵"
   title: "庶務長 - 大氣系二年級"
-  thumbnailUrl: zxy.jpg
+  thumbnailUrl: zzh.png
   activity: true
   social:
     - {
         name: "facebook",
-        link: "https://www.facebook.com/profile.php?id=100003540591415",
+        link: "https://www.facebook.com/profile.php?id=100004387625952",
       }
 
 - id: 16
-  name: ""
+  name: "Cheng-Kai"
   surname: "馬丞楷"
   title: "庶務長 - 中文系二年級"
   thumbnailUrl: mck.jpg
@@ -221,16 +225,16 @@
       }
 
 - id: 17
-  name: ""
+  name: "Sean"
   surname: "李書成"
   title: "隊輔長 - 資管系二年級"
-  thumbnailUrl: lsc.jpg
+  thumbnailUrl: seanlee.png
   activity: true
   social:
     - { name: "facebook", link: "https://www.facebook.com/shuuuupiiiii" }
 
 - id: 18
-  name: ""
+  name: "Casey"
   surname: "黃子強"
   title: "隊輔長 - 大氣系二年級"
   thumbnailUrl: hzq.jpg
@@ -238,11 +242,11 @@
   social:
     - {
         name: "facebook",
-        link: "https://www.facebook.com/profile.php?id=100006613961518&sk=photos_albums&lst=100002894420772%3A100006613961518%3A1594402655",
+        link: "https://www.facebook.com/profile.php?id=100006613961518",
       }
 
 - id: 19
-  name: ""
+  name: "Allen"
   surname: "董宇然"
   title: "隊輔長 - 中文系二年級"
   thumbnailUrl: dyr.jpg
@@ -259,6 +263,12 @@
   title: "Developer, @icheft"
   thumbnailUrl: brianchen.jpg
   dev: true
+  ribbon:
+    - {
+        abbr: "DEV",
+        title: "2020 CLIMAS Tech Lead",
+        url: "https://climas.now.sh/",
+      }
   social:
     - { name: "github", link: "https://github.com/icheft" }
     - { name: "facebook", link: "https://facebook.com/brian.lxchen" }
@@ -270,6 +280,12 @@
   title: "Developer"
   thumbnailUrl: wqy.jpg
   dev: true
+  ribbon: 
+    - {
+        abbr: "DEV",
+        title: "2020 CLIMAS Head Developer",
+        url: "https://climas.now.sh/",
+      }
   social:
     - { name: "github", link: "https://github.com/dmytrodanylyk" }
     - { name: "facebook", link: "https://github.com/dmytrodanylyk" }

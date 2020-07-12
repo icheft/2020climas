@@ -5,9 +5,19 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">召部</h4>
             {% for teamMember in site.data.team %} {% if teamMember.exec != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
+                        {% if teamMember.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in teamMember.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
@@ -32,9 +42,19 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">部長</h4>
             {% for teamMember in site.data.team %} {% if teamMember.activity != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
+                        {% if teamMember.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in teamMember.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
@@ -59,9 +79,19 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">開發者</h4>
             {% for teamMember in site.data.team %} {% if teamMember.dev != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
+                        {% if teamMember.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in teamMember.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
