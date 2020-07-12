@@ -5,8 +5,17 @@
         <h3>{{ site.ticketsInfoTitle }}</h3>
         <div class="animated hiding" data-animation="fadeInDown" data-delay="0" style="text-align: left;">
 			{% assign animationDelay = 0 %}
-			{% for info in site.ticketsInfoText %}
-			<p><strong>{{ info.name }}</strong>：{{ info.detail }}</p>
+            {% for info in site.ticketsInfoText %}
+            {% if info.detail != null %}
+            <p><strong>{{ info.name }}</strong>：{{ info.detail }}</p>
+            {% elsif info.detail1 != null %}
+            <p><strong>{{ info.name }}</strong>：
+            <ol>
+                <li>{{ info.detail1 }}</li>
+                <li>{{ info.detail2 }}</li>
+            </ol>
+            </p>
+            {% endif %}
 			{% assign animationDelay = animationDelay | plus:250 %}
 			{% endfor %}
         </div>

@@ -245,12 +245,6 @@
   title: "隊輔長 - 大氣系二年級"
   thumbnailUrl: hzq.jpg
   activity: true
-  ribbon: 
-    - {
-        abbr: "遮",
-        title: "也不知道在遮三小遮ㄏㄏ",
-        url: "#",
-      }
   social:
     - {
         name: "facebook",
