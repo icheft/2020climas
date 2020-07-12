@@ -57,7 +57,7 @@ typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學�
 typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
   - { permalink: "/#tickets", text: "馬上報名" }
-  - { link: "#", text: "前往粉專" }
+  - { permalink: "/blog/", text: "前往粉專" }
 
 # About Block
 aboutTitle: "營隊簡介"
