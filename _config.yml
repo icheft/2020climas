@@ -180,7 +180,7 @@ ticketsOffers:
     price: "3,700 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
-    # ribbon: "不搭車"
+    ribbon: "豐原集合"
     featured: true
     buyButtonLink: "#"
     buyButtonText: "報名尚未開放"
@@ -192,7 +192,7 @@ ticketsOffers:
     price: "4,000 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
-    ribbon: "搭車"
+    ribbon: "台大集合"
     buyButtonLink: "#"
     buyButtonText: "報名尚未開放"
     ticketContentList: []
