@@ -66,35 +66,37 @@
 - id: 003
   title: "大地 👣"
   service: true
-  description: "讓你知道流星花園的地真的很大。"
+  description: "在大太陽底下消耗體力，讓你知道流星花園真的很大（順便努力認識新朋友）。"
 - id: 004
   title: "策略 🧠"
   service: true
-  description: "絞緊腦汁，讓故事走向自己的目標結局ㄅ！<br>前提是，你要先博得評審歡心，評審的品味真的是世界無敵怪。"
+  description: "在升上大學來到公館吃香喝辣之前，先想想怎麼發大財吧！經營和交易可不是你們想像的那麼容易。<br>然後評審的品味真的是世界無敵怪。"
 - id: 005
   title: "密室假案 👻"
-  service: true
-  description: "「欸假案很可怕捏」<br>「假案：顧名思義就是<strong>假（fake）</strong>的。是有什麼好怕。」"
+  description: "離鄉背井之際，住宿舍？租房子？先解決眼前的問題比較實在。"
+  detail: "離鄉背井之際，住宿舍？租房子？先解決眼前的問題比較實在。<p><strong>小劇場</strong>：<br>「欸假案很可怕捏」<br>「假案：顧名思義就是<strong>假（fake）</strong>的。是有什麼好怕。」</p>"
+
 - id: 006
   title: "RPG 👾"
   service: true
-  description: "RPG 我不懂，但 <a href='https://www.ptt.cc/bbs/NTU/M.1504087401.A.60E.html'>NPC</a> 倒是知道不少"
+  description: "RPG 我不懂，但 <a href='https://www.ptt.cc/bbs/NTU/M.1504087401.A.60E.html'>NPC</a> 倒是知道不少（也知道在台中酷熱太陽下奔跑的感覺，哈哈）"
 - id: 007
   title: "賭場 ＋ 競標 🤑"
-  service: true
   place: "澳門"
-  description: "大學生不好好讀書在那邊賭博<br>阿公講古時間：澳門、拉斯維加斯賭場規定要21歲才能進入，啊你今年幾歲？小大一到底在賭個毛 = ="
+  # teamMember: "ㄋㄠ"
+  description: "大學生不好好讀書在那邊賭博，以為這樣真的能發大財嗎？"
+  detail: "大學生不好好讀書在那邊賭博，以為這樣真的能發大財嗎？<br><p><strong>阿公講古時間：</strong><br>澳門、拉斯維加斯賭場規定要21歲才能進入，啊你今年幾歲？小大一到底在賭個毛 = =</p>"
 
 - id: 008
   title: "晚會 🕺🏾"
   service: true
   place: "大型晚會現場"
-  description: "好期待表演喔！"
+  description: "不普通的晚會，絕對超乎你想像"
 - id: 009
   title: "水大地 🌊"
   service: true
   place: "大型災難現場"
-  description: "玩水玩水 👉🏽 著涼 👉🏽 感冒<br>好啦不是，但想要全身（乾）而退，可是不容易的。<br>對了，那個... 明年如果有缺水問題絕對不甘 CLIMAS 的事喔..."
+  description: "玩水玩水 👉🏽 著涼 👉🏽 感冒<br>暑假的太陽需要用冰涼的水球對抗，想要乾著離開肯定是不可能的！"
 - id: 010
   title: "閉幕"
   service: true
