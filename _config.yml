@@ -184,10 +184,11 @@ ticketsOffers:
     featured: true
     permalink: "/application-3700/"
     buyButtonText: "點我進入報名頁面"
-    ticketContentList: []
+    ticketContentList: ["去程自行前往豐原火車站"]
     validFrom: "2020-07-17T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: false
+    disabled: true
+
   - name: "報名連結"
     price: "4,000 "
     priceCurrency: "NTD"
@@ -196,10 +197,10 @@ ticketsOffers:
     permalink: "/application-4000/"
     buyButtonLink: "#"
     buyButtonText: "點我進入報名頁面"
-    ticketContentList: []
+    ticketContentList: ["去程於台北和工人一起搭遊覽車前往流星花園"]
     validFrom: "2020-07-17T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: false
+    disabled: true
 
 ticketsInfoText:
   - name: "報名資格"
