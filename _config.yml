@@ -173,7 +173,7 @@ ticketsOffers:
     ticketsNumber: "100"
     # ribbon: "不搭車"
     featured: true
-    permalink: "/application/3700"
+    permalink: "/application-3700/"
     buyButtonText: "點我進入報名頁面"
     ticketContentList: []
     validFrom: "2020-07-10T00:00"
@@ -184,7 +184,7 @@ ticketsOffers:
     priceCurrency: "NTD"
     ticketsNumber: "100"
     ribbon: "搭車"
-    permalink: "/application/4000"
+    permalink: "/application-4000/"
     buyButtonText: "點我進入報名頁面"
     ticketContentList: []
     validFrom: "2020-07-15T00:00"
