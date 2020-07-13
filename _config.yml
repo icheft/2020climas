@@ -174,7 +174,21 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 # Tickets Block
 ticketsTitle: "報名連結"
 ticketsInfoTitle: "報名資訊"
-ticketsInfo: "我們目前採用第三方平台。若報名之後一天內沒有收到 Email 通知，請聯繫粉專或相關承辦人員！"
+ticketsInfo: '我們目前採用第三方平台。報名之後，顯示以下：<br><br>
+            <svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g id="Thank-You" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="thanks" transform="translate(-690.000000, -263.000000)">
+                        <g id="Group" transform="translate(692.000000, 265.000000)">
+                            <circle id="Oval-Copy" stroke="#34D183" stroke-width="3" fill="#FFFFFF" cx="28" cy="28" r="28"></circle>
+                            <g id="check-small" transform="translate(18.000000, 21.000000)" fill="#34D183" fill-rule="nonzero">
+                                <path d="M5.85714286,17 C5.38571429,17 5.07142857,16.83 4.75714286,16.49 L-1.52857143,9.69 C-2.15714286,9.01 -2.15714286,7.99 -1.52857143,7.31 C-0.9,6.63 0.0428571429,6.63 0.671428571,7.31 L5.85714286,12.92 L17.3285714,0.51 C17.9571429,-0.17 18.9,-0.17 19.5285714,0.51 C20.1571429,1.19 20.1571429,2.21 19.5285714,2.89 L6.95714286,16.49 C6.64285714,16.83 6.32857143,17 5.85714286,17 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg><br>
+            <h6>Thank You</h6>We received your submission.<br><br>
+            才代表報名完成。若報名之後一天內沒有收到 Email 通知，請聯繫我們或相關承辦人員！'
 ticketsOffers:
   - name: "報名連結"
     price: "3,700 "
