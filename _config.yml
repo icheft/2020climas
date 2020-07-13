@@ -182,23 +182,24 @@ ticketsOffers:
     ticketsNumber: "100"
     ribbon: "豐原集合"
     featured: true
-    buyButtonLink: "#"
-    buyButtonText: "報名尚未開放"
+    permalink: "/application-3700/"
+    buyButtonText: "點我進入報名頁面"
     ticketContentList: []
     validFrom: "2020-07-17T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: true
+    disabled: false
   - name: "報名連結"
     price: "4,000 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
     ribbon: "台大集合"
+    permalink: "/application-4000/"
     buyButtonLink: "#"
-    buyButtonText: "報名尚未開放"
+    buyButtonText: "點我進入報名頁面"
     ticketContentList: []
     validFrom: "2020-07-17T00:00"
     validThrough: "2020-08-28T23:59"
-    disabled: true
+    disabled: false
 
 ticketsInfoText:
   - name: "報名資格"
@@ -492,3 +493,5 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+
+theme: jekyll-theme-cayman

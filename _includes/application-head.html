@@ -1,0 +1,51 @@
+<head>
+
+
+    <meta charset="utf-8"/>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <meta content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+    <meta content="Brian L. Chen" name="author"/>
+    <meta name="description" content="{{ site.description }}"/>
+    <meta name="keywords" content="{{ site.metaKeywords }}"/>
+    <meta name="google-site-verification" content="{{ site.siteVerification }}"/>
+    <link rel="canonical" href="{{ site.url }}"/>
+
+    <title>
+        {% if page.title %}
+            {{ page.title }}
+            &bull;
+            {{ site.title }}
+        {% else %}
+            {{ site.title }}
+        {% endif %}
+    </title>
+    <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}"/>
+    <link rel="apple-touch-icon" href="{{ "/img/favicons/apple-touch-icon.png" | prepend: site.baseurl }}"/>
+
+    <link href="https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap" rel="stylesheet"/>
+
+    <meta content="#2b5797" name="msapplication-TileColor"/>
+    <meta content="#2b5797" name="theme-color"/>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+
+    <!-- <link href="/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" rel="stylesheet" type="text/css"> -->
+    <link href="{{"/vendor/bootstrap/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+    <link href="{{"/vendor/animate/animate.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+    <link href="{{"/vendor/css-hamburgers/hamburgers.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+    <link href="{{"/vendor/select2/select2.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+
+    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/css/util.css" | | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+    <link href="{{"/css/application.css" | | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
+
+    
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+                	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+                	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+    {% include analytics.html %}
+</head>
