@@ -1,0 +1,232 @@
+.preloader {
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #fff;
+}
+
+.loader-gplus {
+	display: inline-block;
+	position: absolute;
+	top: calc(50% - 20px);
+	left: calc(50% - 20px);
+	width: 40px;
+	height: 40px;
+	overflow: hidden;
+	border-radius: 20px;
+	-webkit-animation: base 3s steps(1) 0s infinite;
+	animation: base 3s steps(1) 0s infinite;
+}
+.loader-gplus::before,
+.loader-gplus::after {
+	content: ' ';
+	display: block;
+	width: 50%;
+	height: 100%;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	z-index: 1;
+	border-radius: 0 20px 20px 0;
+	-webkit-transform-origin: 0 50%;
+	transform-origin: 0 50%;
+}
+.loader-gplus::before {
+	z-index: 2;
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-animation: flip 3s linear 0s infinite;
+	animation: flip 3s linear 0s infinite;
+}
+.loader-gplus::after {
+	-webkit-animation: reveal 3s steps(1) 0s infinite;
+	animation: reveal 3s steps(1) 0s infinite;
+}
+@-webkit-keyframes base {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+		background-color: #fec451;
+	}
+	25% {
+		-webkit-transform: rotate(90deg);
+		transform: rotate(90deg);
+		background-color: #4185f4;
+	}
+	50% {
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+		background-color: #f6a457;
+	}
+	75% {
+		-webkit-transform: rotate(270deg);
+		transform: rotate(270deg);
+		background-color: #000000;
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+		background-color: #fec451;
+	}
+}
+@keyframes base {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+		background-color: #fec451;
+	}
+	25% {
+		-webkit-transform: rotate(90deg);
+		transform: rotate(90deg);
+		background-color: #4185f4;
+	}
+	50% {
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+		background-color: #f6a457;
+	}
+	75% {
+		-webkit-transform: rotate(270deg);
+		transform: rotate(270deg);
+		background-color: #000000;
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+		background-color: #fec451;
+	}
+}
+@-webkit-keyframes reveal {
+	0% {
+		background-color: #fec451;
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	25% {
+		background-color: #4185f4;
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	50% {
+		background-color: #f6a457;
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	75% {
+		background-color: #000000;
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	100% {
+		background-color: #fec451;
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+@keyframes reveal {
+	0% {
+		background-color: #fec451;
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	25% {
+		background-color: #4185f4;
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	50% {
+		background-color: #f6a457;
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	75% {
+		background-color: #000000;
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	100% {
+		background-color: #fec451;
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+}
+@-webkit-keyframes flip {
+	0% {
+		background-color: #fec451;
+		-webkit-transform: rotateY(0deg);
+		transform: rotateY(0deg);
+	}
+	12.5%,
+	87.56% {
+		background-color: #dd9f22;
+	}
+	12.51%,
+	37.5% {
+		background-color: #102c6b;
+	}
+	25% {
+		background-color: #4185f4;
+	}
+	37.51%,
+	62.5% {
+		background-color: #6d3603;
+	}
+	50% {
+		background-color: #f17807;
+	}
+	62.51%,
+	87.5% {
+		background-color: #da9c62;
+	}
+	75%,
+	78% {
+		background-color: #f6a457;
+	}
+	100% {
+		background-color: #fec451;
+		-webkit-transform: rotateY(-720deg);
+		transform: rotateY(-720deg);
+	}
+}
+@keyframes flip {
+	0% {
+		background-color: #fec451;
+		-webkit-transform: rotateY(0deg);
+		transform: rotateY(0deg);
+	}
+	12.5%,
+	87.56% {
+		background-color: #dd9f22;
+	}
+	12.51%,
+	37.5% {
+		background-color: #102c6b;
+	}
+	25% {
+		background-color: #4185f4;
+	}
+	37.51%,
+	62.5% {
+		background-color: #6d3603;
+	}
+	50% {
+		background-color: #f17807;
+	}
+	62.51%,
+	87.5% {
+		background-color: #da9c62;
+	}
+	75%,
+	78% {
+		background-color: #f6a457;
+	}
+	100% {
+		background-color: #fec451;
+		-webkit-transform: rotateY(-720deg);
+		transform: rotateY(-720deg);
+	}
+}
