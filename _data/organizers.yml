@@ -26,3 +26,9 @@
         link: "http://www.as.ntu.edu.tw",
         imageUrl: "ntu_as.jpg",
       }
+    - {
+        name: "流星花園",
+        description: "豐原公老坪流星花園民宿，邀您前來細細品嚐。",
+        link: "http://www.glp.com.tw/index.htm",
+        imageUrl: "lxhy.png",
+      }

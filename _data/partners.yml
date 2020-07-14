@@ -1,3 +1,12 @@
+- group: "金級"
+  elements:
+    - {
+        name: "賴群龍",
+        description: "ta很懶什麼也沒留下",
+        link: "https://www.facebook.com/profile.php?id=100006272890728",
+        imageUrl: "dragons.jpg",
+        width: "130px",
+      }
 - group: "銀級"
   elements:
     - {
