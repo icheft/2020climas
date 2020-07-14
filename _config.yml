@@ -196,7 +196,7 @@ ticketsOffers:
     ticketsNumber: "100"
     ribbon: "豐原集合"
     featured: true
-    permalink: "/application-3700/"
+    permalink: "/application/3700/"
     buyButtonText: "點我進入報名頁面"
     ticketContentList: ["去程自行前往豐原火車站"]
     validFrom: "2020-07-17T00:00"
@@ -208,7 +208,7 @@ ticketsOffers:
     priceCurrency: "NTD"
     ticketsNumber: "100"
     ribbon: "台大集合"
-    permalink: "/application-4000/"
+    permalink: "/application/4000/"
     buyButtonLink: "#"
     buyButtonText: "點我進入報名頁面"
     ticketContentList: ["去程於台北和工人一起搭遊覽車前往流星花園"]

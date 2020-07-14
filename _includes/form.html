@@ -1,0 +1,138 @@
+<div class="wrap-contact100">
+	<form class="contact100-form validate-form" id="ajaxForm" action="{{ site.data.tickets.getFormID }}" method="POST" enctype="multipart/form-data">
+		<span class="contact100-form-title">
+			<img src="/img/seo/organizer-logo.png" height="65px" class="d-inline-block" alt=""><br>
+			{{ site.data.tickets.ticketName }}{% if page.price != null %} | {% endif %}
+			{% if page.price == 3700 %}
+				<strong>{{ site.data.tickets.ticketTitle3700 }}</strong>
+			{% elsif page.price == 4000 %}
+				<strong>{{ site.data.tickets.ticketTitle4000 }}</strong>
+			{% endif %}
+				</span>
+
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.name }}</span>
+					<input class="input100" type="text" name="name" placeholder="{{ site.data.tickets.placeholder.name  }}"  required="required">
+				</div>
+
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.tel }}</span>
+					<input class="input100" type="tel" pattern = "[0-9]{10}" name="cell phone" placeholder="{{ site.data.tickets.placeholder.tel }}"  required="required">
+				</div>
+
+				<div class="wrap-input100 rs1-wrap-input100 " >
+					<span class="label-input100">{{ site.data.tickets.input.id }}</span>
+					<input class="input100" type="text" pattern = "[A-Z]{1}[0-9]{9}" name="personal id" placeholder="{{ site.data.tickets.placeholder.id }}"  required="required">
+				</div>
+				
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.email }}</span>
+					<input class="input100" type="text" name="email" placeholder="{{ site.data.tickets.placeholder.email  }}"  required="required">
+				</div>
+
+				<div class="wrap-input100 rs1-wrap-input100 " >
+					<span class="label-input100">{{ site.data.tickets.input.contact }}</span>
+					<input class="input100" type="text" name="emergent contacter" placeholder="{{ site.data.tickets.placeholder.contact  }}"  required="required">
+				</div>
+
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.contactTel }}</span>
+					<input class="input100" type="tel"  pattern = "[0-9]{10}" name="emergent contacter number" placeholder="{{ site.data.tickets.placeholder.contactTel  }}"  required="required">
+				</div>
+
+
+
+
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.major }}</span>
+					<p>
+						{% for item in site.data.tickets.department %}
+						<input type="radio" value="{{ item.value }}" name="dept"  required="required"> {{ item.text }}<br>
+						{% endfor %}
+					</p>
+
+				</div>
+				
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.preference }}</span>
+					<p>
+						<input type="radio" value="meat" name="food"  required="required"> 葷<br>
+						<input type="radio" value="veg" name="food"  required="required"> 素<br>
+					</p>
+				</div>
+				
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.birthday }}</span>
+					<input class="input100" type="text" pattern = "[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}" placeholder="{{ site.data.tickets.placeholder.birthday  }}" name="birthday"  required="required">
+				</div>
+
+				<div class="wrap-input100 rs1-wrap-input100 ">
+					<span class="label-input100">{{ site.data.tickets.input.fb }}</span>
+					<input class="input100" type="url" name="facebook" placeholder="{{ site.data.tickets.placeholder.fb  }}" required="required">
+				</div>
+
+				<div class="wrap-input100 rs1-wrap-input100 " >
+					<span class="label-input100">{{ site.data.tickets.input.bankAcct }}</span>
+					<input class="input100" type="text" pattern="[0-9]{5}" name="bank acct" placeholder="{{ site.data.tickets.placeholder.bankAcct  }}" required="required">
+				</div>
+
+				
+				<div class="wrap-input100 rs1-wrap-input100 " >
+					<span class="label-input100">{{ site.data.tickets.input.paymentDate }}</span>
+					<input class="input100" type="text" pattern = "[0-9]{4}/[0-9]{1,2}/[0-9]{1,2}" placeholder="{{ site.data.tickets.placeholder.paymentDate  }}" name="transfer date">
+				</div>
+
+
+
+				<div class="wrap-input100 rs1-wrap-input100 " >
+					<span class="label-input100">{{ site.data.tickets.input.size }}</span>
+					<a href="{{ site.data.tickets.shirtInfoLink }}">{{ site.data.tickets.shirtInfoLinkText }}</a>
+					<br>
+					<p>
+						<select class="input100" name="shirt_size" id="shirt_size" required="required">
+							<option value="">{{ site.data.tickets.shirtPrompt }}</option>
+							{% for item in site.data.tickets.shirtSize %}
+							<option value="{{ item.value }}">{{ item.value }}</option>
+							{% endfor %}
+						</select>
+					</p>
+				</div><br>
+
+				<div class="wrap-input100">
+					<span class="label-input100">{{ site.data.tickets.input.message }}</span>
+					<textarea class="input100" rows="5" cols="30" name="message" placeholder="{{ site.data.tickets.placeholder.message  }}"></textarea>
+				</div>
+
+				<!--	輸入價格	-->
+				<input name="fee"  value="{{ page.price }}" style= "display:none"></input>
+
+
+				<span class="contact100-form-confirm">
+					所需費用
+				</span>
+				<h4>
+					{% if page.price == 3700 %}
+					{{ site.data.tickets.ticketPrice3700  }}
+					{% elsif page.price == 4000 %}
+						{{ site.data.tickets.ticketPrice4000  }}
+					{% endif %}
+					<span style="font-size: small;">
+						NTD
+					</span>
+				</h4>
+
+				
+
+				<div class="d-flex justify-content-center">
+					<div class="btn-group" role="group" aria-label="actionButtons">
+					  <button id="form-btn" class="d-block btn btn-outline-dark" >{{ site.data.tickets.submit  }}</button>
+					</div>
+				</div>
+			</form>
+		</div>
+
+	</div>
+
+
+
+	<div id="dropDownSelect1"></div>

@@ -1,0 +1,70 @@
+getFormID: "https://getform.io/f/78751879-387e-4ffa-ae63-8e673deaa9f6"
+
+ticketName: "報名表單"
+ticketTitle4000: "一起搭車"
+ticketPrice4000: "4,000"
+ticketTitle3700: "自行前往"
+ticketPrice3700: "3,700"
+
+input:
+  name: "姓名 *"
+  tel: "手機號碼 *"
+  id: "身分證字號 *"
+  email: "Email *"
+  contact: "緊急聯絡人 *"
+  contactTel: "緊急聯絡人電話 *"
+  major: "系所 *"
+  preference: "飲食習慣 *"
+  birthday: "生日 *"
+  fb: "Facebook 個人頁面網址 *"
+  paymentDate: "匯款日期（非必填，可先報名再匯款）"
+  size: "營服尺寸 *"
+  message: "想說的話 ☺️"
+  bankAcct: "匯款帳號末五碼 *"
+ 
+placeholder:
+  message: "如果你有其他問題或是建議，或是，任何想說的話，都歡迎填寫，我們將盡快回覆！"
+  fb: "https://www.facebook.com/你的連結"
+  birthday: "YYYY/MM/DD"
+  paymentDate: "YYYY/MM/DD"
+  bankAcct: "12345"
+  name: "陳克里馬斯"
+  tel: "09XXXXXXXX"
+  id: "A123456789"
+  email: "climas@gmail.com"
+  contact: "緊急聯絡人"
+  contactTel: "09OOOOOOOO"
+
+submit: "確認報名 | 上傳"
+
+shirtInfoLinkText: "點我查看尺寸對照表"
+shirtInfoLink: "#"
+shirtPrompt: "- 請選擇尺寸 -"
+
+shirtSize:
+  - {value: "XS"}
+  - {value: "S"}
+  - {value: "M"}
+  - {value: "L"}
+  - {value: "XL"}
+  - {value: "2XL"}
+
+department:
+  - {
+      value: "IM",
+      text: "資訊管理學系"
+    }
+  - {
+      value: "CL",
+      text: "中國語文學系"
+    }
+  - {
+      value: "AS",
+      text: "大氣科學系"
+    }
+
+
+
+
+
+
