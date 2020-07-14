@@ -70,6 +70,11 @@
 								80 }}
 							</p>
 							{% endif %}
+							{% if session.place != null %}
+							<span class="speaker-position"
+								>@{{ session.place }}</span
+							>
+							{% endif %} 
 						</div>
 					</div>
 					{% elsif slot == session.id and session.service != null %}
