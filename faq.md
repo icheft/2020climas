@@ -10,8 +10,8 @@ isStaticPost: true
 `2020-09-11 星期五` - `2020-09-13 星期日`。是的，就是在開學前一天結束噢！
 
 如果你是使用 Apple 的產品（包含 MacBook、iPhone、iPad、Apple Watch）你可以點開<a target="_blank" href="{{ site.baseurl }}/assets/iCal-20200712-223209.ics">這個行事曆連結</a>，便可以自動將這三天安排在你的行事曆囉！
-
-其他安著用戶不用著急，你可以<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzVjMTd1MWFscjVtb25hZzQ3ZjI1cTZnNTYgYnJpYW4ubHhjaGVuQG0&amp;tmsrc=brian.lxchen%40gmail.com">使用 Google 行事曆連結</a>將這三天的活動資訊存在你的裝置中！
+<!-- https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MzVjMTd1MWFscjVtb25hZzQ3ZjI1cTZnNTYgYnJpYW4ubHhjaGVuQG0&amp;tmsrc=brian.lxchen%40gmail.com -->
+其他安卓用戶不用著急，你可以<a target="_blank" href="https://calendar.google.com/calendar/b/2?cid=MjAyMGNsaW1hc0BnbWFpbC5jb20">使用 Google 行事曆連結</a>將這三天的活動資訊存在你的裝置中！
 
 Windows 用戶，欸嘿，求求你換成蘋果的！不會用的或不確定的歡迎來找 [@icheft](https://icheft.github.io/menu/contact/)，他可以說服你！
 

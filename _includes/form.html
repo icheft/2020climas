@@ -56,8 +56,8 @@
 				<div class="wrap-input100 rs1-wrap-input100 ">
 					<span class="label-input100">{{ site.data.tickets.input.preference }}</span>
 					<p>
-						<input type="radio" value="meat" name="food"  required="required"> 葷<br>
-						<input type="radio" value="veg" name="food"  required="required"> 素<br>
+						<input type="radio" value="葷" name="food"  required="required"> 葷<br>
+						<input type="radio" value="素" name="food"  required="required"> 素<br>
 					</p>
 				</div>
 				
@@ -106,6 +106,12 @@
 				<!--	輸入價格	-->
 				<input name="fee"  value="{{ page.price }}" style= "display:none"></input>
 
+				{% if page.price == 3700 %}
+				<input name = "wayToGo" type="text" value = "自行前往" style = "display:none">
+				{% elsif page.price == 4000 %}
+				<input  name = "wayToGo" type="text" value = "一起搭車"style = "display:none">
+				{% endif %}
+				</input>
 
 				<span class="contact100-form-confirm">
 					所需費用

@@ -23,7 +23,7 @@ input:
   bankAcct: "匯款帳號末五碼 *"
  
 placeholder:
-  message: "如果你有其他問題或是建議，或是，任何想說的話，都歡迎填寫，我們將盡快回覆！"
+  message: "如果你有其他問題或是建議，或是任何想說的話，都歡迎填寫，我們將盡快回覆！"
   fb: "https://www.facebook.com/你的連結"
   birthday: "YYYY/MM/DD"
   paymentDate: "YYYY/MM/DD"
