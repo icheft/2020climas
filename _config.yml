@@ -242,7 +242,7 @@ footerBlocks:
       - { permalink: "/rockstars/", text: "WE ROCK" }
       - {
           link: "https://paypal.me/brianlxchen?locale.x=en_US",
-          text: "都要沒錢了還不拉贊助，那就來贊助創作者吧",
+          text: "來贊助創作者吧！",
         }
       - { link: "https://ko-fi.com/icheft", text: "這是另一個贊助管道" }
       - {
