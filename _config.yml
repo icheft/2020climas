@@ -9,9 +9,9 @@ permalink: pretty
 exclude: ["/automation/", "README.md", "LICENSE.txt", "CNAME"]
 
 # Site Settings
-title: "2020 CLIMAS | 中文資管大氣聯合宿營"
+title: "2020 CLIMAS | 臺大中文資管大氣聯合宿營"
 email: "brian.lxchen@gmail.com"
-description: "2020 CLIMAS 台大中文 x 資管 x 大氣聯合宿營"
+description: "2020 CLIMAS 臺大中文 x 資管 x 大氣聯合宿營官方網站"
 # baseurl: "/climas"
 url: "https://climas.now.sh"
 # permalink: "/blog/:title"
@@ -21,7 +21,7 @@ siteVerification: "oYnWS4rMeEdlsqDX135peKCdqXc8RyUErIy"
 # Organizer Info
 organizerName: "CLIMAS"
 organizerAlternateName: "2020 CLIMAS Camp"
-organizerDescription: "台大中文 x 資管 x 大氣聯合宿營籌辦團隊"
+organizerDescription: "臺大中文 x 資管 x 大氣聯合宿營籌辦團隊"
 organizerEmail: "2020climas@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://climas.now.sh/"
@@ -53,8 +53,8 @@ rightNavigationButtons:
 heroImage: "hero.png"
 heroTitle: "2020 CLIMAS"
 eventDate: "Sept. 11 - 13, 2020"
-typeoutTextValues: '"", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
-typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
+typeoutTextValues: '"", "臺灣大學", "中國文學系", "資訊管理學系", "大氣科學系", "聯合宿營"'
+typeoutFallback: "臺大中文 x 資管 x 大氣聯合宿營"
 heroButtons:
   - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/#tickets", text: "馬上報名" }
@@ -80,9 +80,9 @@ aboutBlock:
         ",
     }
   - {
-      title: "台大生存攻略？",
+      title: "臺大生存攻略？",
       text:
-        "透過精心設計的各種活動與遊戲，拉近彼此距離；同時藉由學長姐QA時間，成功獲得台大生存攻略。
+        "透過精心設計的各種活動與遊戲，拉近彼此距離；同時藉由學長姐QA時間，成功獲得臺大生存攻略。
         你，千萬不能錯過。",
     }
 
@@ -207,7 +207,7 @@ ticketsOffers:
     price: "4,000 "
     priceCurrency: "NTD"
     ticketsNumber: "100"
-    ribbon: "台大集合"
+    ribbon: "臺大集合"
     permalink: "/application/4000/"
     buyButtonLink: "#"
     buyButtonText: "點我進入報名頁面"
@@ -218,7 +218,7 @@ ticketsOffers:
 
 ticketsInfoText:
   - name: "報名資格"
-    detail: "全體台大中文、大氣及資管系大一新生"
+    detail: "全體臺大中文、大氣及資管系大一新生"
   - name: "活動地點"
     detail: "台中流星花園（台中市豐原區水源路坪頂巷8號）"
   - name: "活動日期"
@@ -259,14 +259,14 @@ footerBlocks:
       - { link: "https://ceiba.ntu.edu.tw/student/index.php", text: "CEIBA" }
       - { link: "https://cool.ntu.edu.tw/", text: "NTU Cool" }
       - { link: "https://pdogs.ntu.im/judge/", text: "PDOGS" }
-      - { link: "https://if192.aca.ntu.edu.tw/index.php", text: "台大選課系統" }
+      - { link: "https://if192.aca.ntu.edu.tw/index.php", text: "臺大選課系統" }
       - {
           link: "https://nol.ntu.edu.tw/nol/guest/index.php",
-          text: "台大課程網",
+          text: "臺大課程網",
         }
       - {
           link: "https://web4.cc.ntu.edu.tw/p/s/login3/p1.php",
-          text: "台大帳號設定",
+          text: "臺大帳號設定",
         }
       - {
           link: "http://www.cc.ntu.edu.tw/chinese/services/servicesqa.asp",
