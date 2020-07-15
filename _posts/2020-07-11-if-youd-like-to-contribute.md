@@ -19,25 +19,25 @@ isStaticPost: false
 
 **最新消息** page needs your decorations!
 
-2020 CLIMAS Camp will be held 11-13th of September in Taichung. If you want to be part of this amazing event but don't know how, here is one way to do it. Every one of you, including the organizers and students from all over Taiwan (the world), can submit your very own work to me at [brian.lxchen@gmail.com](mailto:brian.lxchen@gmail.com). Behold, please see the instructions or otherwise, I might not be able to receive your work.
+2020 CLIMAS Camp will be held 11-13th of September in Taichung. If you want to be part of this amazing event but don't know how, here is one way to do it. Every one of you, including the organizers and students from all over Taiwan (the world), can submit your very own work to us at [2020climas@gmail.com](mailto:2020climas@gmail.com). Behold, please see the instructions or otherwise, I might not be able to receive your work.
 
 #### How to Submit Your Blog Post?
 
-First and foremost, I prefer you using `markdown`. If you can send me a link to your `markdown` post on [hackmd.io](https://hackmd.io/?nav=overview), I'd be so much appreciated.
+First and foremost, we prefer you using `markdown`. If you can send us a link to your `markdown` post on [hackmd.io](https://hackmd.io/?nav=overview), we'd be so much appreciated.
 
-But never mind if you have no idea what I just wrote. If you want to contribute to the website or want to be part of the fam, the following is where you should be focused on.
+But never mind if you have no idea what we just wrote. If you want to contribute to the website or want to be part of the fam, the following is where you should be focused on.
 
 1. Compose your documents in any platform you like, it can be `Word`, `Pages`, or any text editors.
 2. Write an email titled `[CLIMAS 徵稿] <你的文章標題> | <姓名, 職稱>`.
 3. Attach your work in the email.
 4. Click `send`.
 
-So for example, this post can be sent to me in the following format:
+So for example, this post can be sent to us in the following format:
 ```txt
-To: brian.lxchen@gmail.com
+To: 2020climas@gmail.com
 Title: [CLIMAS 徵稿] If You'd Like to Contribute... | Brian Chen, 資管二
 Content: 
-  Dear Brian,
+  Dear CLIMAS,
 
   사랑해 and the attachment is my sincere work that I wish to be put on the website.
 
@@ -48,7 +48,7 @@ Content:
 Easy, eh?
 
 #### Other Contents
-If you would like to contribute more than just composing a post, I welcome you to do the following things:
+If you would like to contribute more than just composing a post, we welcome you to do the following things:
 
 Please be reminded that each issue is subject to its own template. Follow the guidelines and fill in the missing information. 
 
@@ -69,4 +69,4 @@ If you shall have any questions about the camp, please submit your question at t
 
 
 #### Any questions? 
-If you still have any questions or ideas, please let me know as well. Simply [create a new issue on the issue page](https://github.com/icheft/2020climas/issues/new) or just dm me if you know me in real life 😉.
+If you still have any questions or ideas, please let us know as well. Simply [create a new issue on the issue page](https://github.com/icheft/2020climas/issues/new) or just dm Brian Chen if you know him in real life 😉.

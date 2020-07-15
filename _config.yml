@@ -21,8 +21,8 @@ siteVerification: "oYnWS4rMeEdlsqDX135peKCdqXc8RyUErIy"
 # Organizer Info
 organizerName: "CLIMAS"
 organizerAlternateName: "2020 CLIMAS Camp"
-organizerDescription: "Student group ready for 2020 CLIMAS Camp."
-organizerEmail: "imsa@ntu.im"
+organizerDescription: "台大中文 x 資管 x 大氣聯合宿營籌辦團隊"
+organizerEmail: "2020climas@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://climas.now.sh/"
 
@@ -34,7 +34,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://climas.now.sh/2020/07/11/if-youd-like-to-contribute-zh_tw/"
-c4sponsorsUrl: "mailto:brian.lxchen@gmail.com"
+c4sponsorsUrl: "mailto:2020climas@gmail.com"
 
 # Navigation
 navigationLinks:
@@ -58,7 +58,7 @@ typeoutFallback: "中文 x 資管 x 大氣聯合宿營"
 heroButtons:
   - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/#tickets", text: "馬上報名" }
-  - { permalink: "mailto:brian.lxchen@gmail.com", text: "我想贊助" }
+  - { permalink: "mailto:2020climas@gmail.com", text: "我想贊助" }
 
 # About Block
 aboutTitle: "營隊簡介"
