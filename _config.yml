@@ -12,7 +12,7 @@ exclude: ["/automation/", "README.md", "LICENSE.txt", "CNAME"]
 title: "2020 CLIMAS | 臺大中文資管大氣聯合迎新宿營"
 email: "brian.lxchen@gmail.com"
 description: "2020 CLIMAS 臺大中文 x 臺大資管 x 臺大大氣聯合迎新宿營將在民國109年9月11日到13日於台中流星花園舉辦。恭喜各位B09的學弟妹進入臺大這個大家庭。快來報名參加這次由臺大三系共同合辦三天兩夜的聯合迎新宿營，在開學前來場美麗的邂逅（認識大家、交朋友、問學長姐問題）吧！"
-# baseurl: "/climas"
+baseurl: ""
 url: "https://climas.now.sh"
 # permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-162829284-5"
@@ -34,7 +34,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://climas.now.sh/2020/07/11/if-youd-like-to-contribute-zh_tw/"
-c4sponsorsUrl: "mailto:2020climas@gmail.com"
+c4sponsorsUrl: "/how-to-sponsor/"
+c4sponsorsInd: "/how-to-sponsor/"
+c4sponsorsList: "/sponsors/"
 
 # Navigation
 navigationLinks:
@@ -53,7 +55,7 @@ rightNavigationButtons:
 heroImage: "hero.png"
 heroTitle: "2020 CLIMAS"
 eventDate: "Sept. 11 - 13, 2020"
-typeoutTextValues: '"", "臺灣大學", "中國文學系", "資訊管理學系", "大氣科學系", "聯合迎新宿營"'
+typeoutTextValues: '"", "國立臺灣大學", "中國文學系", "資訊管理學系", "大氣科學系", "聯合迎新宿營"'
 typeoutFallback: "臺大中文 x 臺大資管 x 臺大大氣聯合迎新宿營"
 heroButtons:
   - { permalink: "/blog/", text: "最新消息" }
@@ -164,6 +166,8 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 organizersTitle: "主辦團隊"
 partnersTitle: "贊助夥伴"
 partnersC4sponsorsButton: "我想贊助！"
+partnersC4sponsorsLink: "完整贊助名單"
+partnersC4sponsorsInd: "小額贊助專區"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -239,16 +243,9 @@ socialLinks:
 footerBlocks:
   - title: "友情贊助"
     links:
+      - { permalink: "/sponsors/", text: "完整贊助名單" }
+      - { permalink: "/how-to-sponsor/", text: "贊助說明文件" }
       - { permalink: "/rockstars/", text: "WE ROCK" }
-      - {
-          link: "https://paypal.me/brianlxchen?locale.x=en_US",
-          text: "來贊助創作者吧！",
-        }
-      - { link: "https://ko-fi.com/icheft", text: "這是另一個贊助管道" }
-      - {
-          link: "https://icheft.github.io/assets/img/lineme.JPG",
-          text: "不然掃個 Line Pay 也行",
-        }
   - title: "聯絡我們"
     links:
       - { link: "tel:+886989350258", text: "資訊管理學系窗口：郭子麟" }

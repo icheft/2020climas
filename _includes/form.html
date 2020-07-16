@@ -1,7 +1,7 @@
 <div class="wrap-contact100">
 	<form class="contact100-form validate-form" id="ajaxForm" action="{{ site.data.tickets.getFormID }}" method="POST" enctype="multipart/form-data">
 		<span class="contact100-form-title">
-			<img src="/img/seo/organizer-logo.png" height="65px" class="d-inline-block" alt=""><br>
+			<a href="{{ site.baseurl }}/" title="回首頁"><img src="/img/seo/organizer-logo.png" height="65px" class="d-inline-block" alt=""></a><br>
 			{{ site.data.tickets.ticketName }}{% if page.price != null %} | {% endif %}
 			{% if page.price == 3700 %}
 				<strong>{{ site.data.tickets.ticketTitle3700 }}</strong>

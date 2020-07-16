@@ -1,0 +1,22 @@
+- name: "臺大資管系學會"
+  description: "臺大資管系學會"
+  intro: ""
+  link: "https://ntu.im/home/"
+  imageUrl: "ntuimsa.png"
+  width: "120px"
+  group: "銀級"
+- name: "Rockers"
+  description: "對本網站有貢獻的人類"
+  link: "https://climas.now.sh/rockstars/"
+  imageUrl: "ring.svg"
+  width: "120px"
+  group: "銀級"
+- name: "賴群龍"
+  description: "ta很懶什麼也沒留下"
+  link: "https://www.facebook.com/profile.php?id=100006272890728"
+  imageUrl: "dragons.jpg"
+  width: "130px"
+  group: "個人贊助"
+  social:
+    - { name: "facebook", link: "http://twitter.com/roman_mazur" }
+    - { name: "site", link: "http://twitter.com/roman_mazur" }

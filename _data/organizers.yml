@@ -5,6 +5,7 @@
         description: "2020 CLIMAS Camp | 中文資管大氣聯合宿營",
         link: "https://climas.now.sh",
         imageUrl: "climas.png",
+        width: "250px",
       }
 - group: "協辦單位"
   elements:
