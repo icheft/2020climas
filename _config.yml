@@ -60,7 +60,7 @@ typeoutFallback: "臺大中文 x 臺大資管 x 臺大大氣聯合迎新宿營"
 heroButtons:
   - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/#tickets", text: "馬上報名" }
-  - { permalink: "mailto:2020climas@gmail.com", text: "我想贊助" }
+  - { permalink: "/how-to-sponsor/", text: "我想贊助" }
 
 # About Block
 aboutTitle: "營隊簡介"
@@ -241,11 +241,11 @@ socialLinks:
   - { link: "https://github.com/icheft/2020climas", icon: "github" }
 
 footerBlocks:
-  - title: "友情贊助"
+  - title: "合作夥伴"
     links:
       - { permalink: "/sponsors/", text: "完整贊助名單" }
       - { permalink: "/how-to-sponsor/", text: "贊助說明文件" }
-      - { permalink: "/rockstars/", text: "WE ROCK" }
+      - { permalink: "/rockstars/", text: "網站資訊提供" }
   - title: "聯絡我們"
     links:
       - { link: "tel:+886989350258", text: "資訊管理學系窗口：郭子麟" }
@@ -281,7 +281,7 @@ rockstarName: "WE ROCK"
 
 # Team Block
 teamBlockTitle: "關於我們"
-aboutUs: "我們就是一群溝通不良的團隊。網頁組要什麼東西，我們能拖就拖。我們超棒！"
+aboutUs: "CLIMAS．臺大中文資管大氣聯合迎新宿營 籌備團隊"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
