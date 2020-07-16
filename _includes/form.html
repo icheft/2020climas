@@ -107,9 +107,9 @@
 				<input name="fee"  value="{{ page.price }}" style= "display:none"></input>
 
 				{% if page.price == 3700 %}
-				<input name = "wayToGo" type="text" value = "自行前往" style = "display:none">
+				<input name = "wayToGo" type="text" value = "{{ site.data.tickets.ticketTitle3700 }}" style = "display:none">
 				{% elsif page.price == 4000 %}
-				<input  name = "wayToGo" type="text" value = "一起搭車"style = "display:none">
+				<input  name = "wayToGo" type="text" value = "{{ site.data.tickets.ticketTitle4000 }}" style = "display:none">
 				{% endif %}
 				</input>
 
@@ -118,7 +118,7 @@
 				</span>
 				<h4>
 					{% if page.price == 3700 %}
-					{{ site.data.tickets.ticketPrice3700  }}
+						{{ site.data.tickets.ticketPrice3700  }}
 					{% elsif page.price == 4000 %}
 						{{ site.data.tickets.ticketPrice4000  }}
 					{% endif %}
