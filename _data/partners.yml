@@ -10,8 +10,8 @@
 - group: "銀級"
   elements:
     - {
-        name: "台大資管系學會",
-        description: "台大資管系學會",
+        name: "臺大資管系學會",
+        description: "臺大資管系學會",
         link: "https://ntu.im/home/",
         imageUrl: "ntuimsa.png",
         width: "120px",
