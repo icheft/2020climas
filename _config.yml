@@ -230,8 +230,16 @@ ticketsInfoText:
   - name: "報名截止日期"
     detail: "2020・8/28（五）"
   - name: "營隊費用"
-    detail1: "去程自行前往豐原火車站： 新台幣 3,700 元整"
-    detail2: "去程於台北和工人一起搭遊覽車前往流星花園： 新台幣 4,000 元整"
+    detail1: "去程自行前往豐原火車站： <mark>新台幣 3,700 元整</mark>"
+    detail2: "去程於台北和工人一起搭遊覽車前往流星花園： <mark>新台幣 4,000 元整</mark>"
+  - name: "繳費資訊"
+    info: "請將報名費用匯款至以下帳戶"
+    accountPrompt: "匯款帳戶"
+    accountID: "134-20-032500-7"
+    accountNamePrompt: "戶名"
+    accountName: "范傑翔"
+    bankPrompt: "銀行"
+    bankName: "808-玉山銀行"
   - name: "注意事項"
     detail: '報名完成後，請填妥新生家長同意書於活動開始時帶至現場繳交。若有需要提前離營，請一併填寫提前離營切結書且於活動開始時帶至現場繳交。宿營相關文件請參閱<a href="/downloads/">下載區</a>。'
 

@@ -11,10 +11,20 @@
             {% elsif info.detail1 != null %}
             <p><strong>{{ info.name }}</strong>：
             <ol>
-                <li>{{ info.detail1 }}</li>
-                <li>{{ info.detail2 }}</li>
+                <li><span style="font-weight: 500;">方案一：</span>{{ info.detail1 }}</li>
+                <li><span style="font-weight: 500;">方案二：</span>{{ info.detail2 }}</li>
             </ol>
             </p>
+            {% elsif info.accountPrompt != null %}
+            <p><strong>{{ info.name }}</strong>：
+                <span>{{ info.info }}</span>
+                <ul>
+                    <li><span style="font-weight: 500;">{{ info.accountPrompt }}</span>：{{ info.accountID }}</li>
+                    <li><span style="font-weight: 500;">{{ info.accountNamePrompt }}</span>：{{ info.accountName }}</li>
+                    <li><span style="font-weight: 500;">{{ info.bankPrompt }}</span>：{{ info.bankName }}</li>
+                </ul>
+            </p>
+            
             {% endif %}
 			{% assign animationDelay = animationDelay | plus:250 %}
 			{% endfor %}
