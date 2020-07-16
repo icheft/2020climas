@@ -253,7 +253,7 @@ footerBlocks:
     links:
       - { permalink: "/sponsors/", text: "完整贊助名單" }
       - { permalink: "/how-to-sponsor/", text: "贊助說明文件" }
-      # - { permalink: "/rockstars/", text: "網站資訊提供" }
+      - { permalink: "#", text: "網站資訊提供" }
       
   - title: "聯絡我們"
     links:
