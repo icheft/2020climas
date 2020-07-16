@@ -1,0 +1,37 @@
+<section>
+    <div class="text-center">
+        <svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Thank-You" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="thanks" transform="translate(-690.000000, -263.000000)">
+                    <g id="Group" transform="translate(692.000000, 265.000000)">
+                        <circle id="Oval-Copy" stroke="#34D183" stroke-width="3" fill="#FFFFFF" cx="28" cy="28" r="28"></circle>
+                        <g id="check-small" transform="translate(18.000000, 21.000000)" fill="#34D183" fill-rule="nonzero">
+                            <path d="M5.85714286,17 C5.38571429,17 5.07142857,16.83 4.75714286,16.49 L-1.52857143,9.69 C-2.15714286,9.01 -2.15714286,7.99 -1.52857143,7.31 C-0.9,6.63 0.0428571429,6.63 0.671428571,7.31 L5.85714286,12.92 L17.3285714,0.51 C17.9571429,-0.17 18.9,-0.17 19.5285714,0.51 C20.1571429,1.19 20.1571429,2.21 19.5285714,2.89 L6.95714286,16.49 C6.64285714,16.83 6.32857143,17 5.85714286,17 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg><br>
+        <h5>感謝報名 2020 CLIMAS 臺大中文資管大氣聯合迎新宿營</h5>
+        <p>我們收到您的報名表單囉！請查收您的信箱，如有任何錯誤<a href="mailto:2020climas@gmail.com">請寫信告知我們</a>。<br>
+            主題欄請寫上<code>[報名資料錯誤] <您的姓名></code>；內容請寫上錯誤內容以及修改方式。<br>
+            我們的信箱為：<a href="mailto:2020climas@gmail.com">2020climas@gmail.com</a>。</p>
+        {% for info in site.ticketsInfoText %}
+            {% if info.accountPrompt != null %}
+            <div style="text-align: center;">
+                <div style="display: inline-block; text-align: left;">
+                    <p>若您還沒繳費，繳費資訊為：</p>
+                    <p>
+                        <span style="font-weight: 500;">{{ info.accountPrompt }}</span>：{{ info.accountID }}<br>
+                        <span style="font-weight: 500;">{{ info.accountNamePrompt }}</span>：{{ info.accountName }}<br>
+                        <span style="font-weight: 500;">{{ info.bankPrompt }}</span>：{{ info.bankName }}<br>
+                    </p>
+                </div>
+            </div>
+            {% endif %}
+		{% endfor %}
+        
+        <a href="{{ site.baseurl }}/" class="btn btn-primary waves-effect waves-button waves-light waves-float" style="margin-top: 10px   ;">回首頁</a>
+        </p>
+    </div>
+</section>

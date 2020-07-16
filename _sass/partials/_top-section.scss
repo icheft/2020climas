@@ -14,6 +14,22 @@
         opacity: 1;
     }
 }
+.top-section-cancel {
+    position: relative;
+    min-height: 400px;
+    padding-top: 0;
+    background: $base-section-background-secondary-color;
+    @media (max-width: 767px) {
+        min-height: 200px;
+        padding: 0;
+    }
+    .gradient-overlay {
+        opacity: 0;
+    }
+    &.enable-overlay .gradient-overlay {
+        opacity: 1;
+    }
+}
 .jumbotron {
     position: relative;
     left: 26px;
