@@ -259,6 +259,7 @@ footerBlocks:
       - { link: "tel:+886989350258", text: "資訊管理學系窗口：郭子麟" }
       - { link: "tel:+886910432100", text: "大氣科學系窗口：陶昱丞" }
       - { link: "tel:+886984200546", text: "中國文學系窗口：黃研倫" }
+      - { link: "mailto:2020climas@gmail.com", text: "2020 CLIMAS 臺大中文資管大氣聯合迎新宿營 官方信箱" }
   - title: "常用連結"
     links:
       - { link: "https://ceiba.ntu.edu.tw/student/index.php", text: "CEIBA" }
