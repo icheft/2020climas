@@ -192,7 +192,7 @@ ticketsInfo: '我們目前採用第三方平台。報名之後，顯示以下：
                 </g>
             </svg><br>
             <h6>Thank You</h6>We received your submission.<br><br>
-            才代表報名完成。若報名之後一天內沒有收到 Email 通知，請聯繫我們或相關承辦人員！'
+            才代表報名完成。若報名之後一天內沒有收到 Email 通知，請<a href="mailto:2020climas@gmail.com">聯繫我們</a>或相關承辦人員！'
 ticketsOffers:
   - name: "報名連結"
     price: "3,700 "
