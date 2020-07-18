@@ -38,7 +38,7 @@ placeholder:
 submit: "確認報名 | 上傳"
 
 shirtInfoLinkText: "點我查看尺寸對照表"
-shirtInfoLink: "#"
+shirtInfoLink: "/img/other/size.png"
 shirtPrompt: "- 請選擇尺寸 -"
 
 shirtSize:
