@@ -42,12 +42,16 @@ shirtInfoLink: "#"
 shirtPrompt: "- 請選擇尺寸 -"
 
 shirtSize:
-  - {value: "XS"}
+  - {value: "SS"}
   - {value: "S"}
   - {value: "M"}
   - {value: "L"}
   - {value: "XL"}
-  - {value: "2XL"}
+  - {value: "2L"}
+  - {value: "3L"}
+  - {value: "4L"}
+  - {value: "5L"}
+  - {value: "6L"}
 
 department:
   - {
