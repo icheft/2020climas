@@ -178,7 +178,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 # Tickets Block
 ticketsTitle: "報名連結"
 ticketsInfoTitle: "報名資訊"
-ticketsInfo: '我們目前採用第三方平台。報名之後，顯示以下：<br><br>
+ticketsInfo: '報名之後，顯示以下：<br><br>
             <svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <g id="Thank-You" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                     <g id="thanks" transform="translate(-690.000000, -263.000000)">
@@ -191,8 +191,8 @@ ticketsInfo: '我們目前採用第三方平台。報名之後，顯示以下：
                     </g>
                 </g>
             </svg><br>
-            <h6>Thank You</h6>We received your submission.<br><br>
-            才代表報名完成。若報名之後一天內沒有收到 Email 通知，請<a href="mailto:2020climas@gmail.com">聯繫我們</a>或相關承辦人員！'
+            <h6>Thank You</h6>感謝報名 2020 CLIMAS 臺大中文資管大氣聯合迎新宿營<br><br>
+            才代表報名完成。若報名之後十五分鐘內沒有收到 Email 通知，請<a href="mailto:2020climas@gmail.com">聯繫我們</a>或相關承辦人員！'
 ticketsOffers:
   - name: "報名連結"
     price: "3,700 "
@@ -279,6 +279,12 @@ footerBlocks:
           link: "http://www.cc.ntu.edu.tw/chinese/services/servicesqa.asp",
           text: "計中",
         }
+  - title: "站內重要連結"
+    links:
+      - { permalink: "/faq/", text: "FAQ 常見問題錦囊" }
+      - { permalink: "/downloads/", text: "下載區" }
+      - { permalink: "/how-to-sponsor/", text: "如何贊助本活動" }
+      - { permalink: "/#tickets", text: "報名入口" }
 
 # Blog
 blogTitle: "最新消息"
