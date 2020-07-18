@@ -6,6 +6,22 @@ date:   2020-07-16 11:40:30 +0800
 permalink: /how-to-sponsor/
 isStaticPost: true
 ---
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
 
 很高興您有興趣贊助這次的「2020 【CLIMAS】台大 中文Ｘ資管Ｘ大氣 三系聯合宿營」活動。我們是本次籌備團隊，在此提供您一些您需要的贊助資訊/企劃書，讓您更了解我們。
 
@@ -48,8 +64,29 @@ isStaticPost: true
 ##### 贊助等級劃分
 我們預計將贊助劃分為四個等級，分別為鑽石級、白金級、金級、以及銀級。
 
-![Image](https://i.imgur.com/oZ1oNhr.png)
 
+<table>
+  <tr>
+    <th>等級</th>
+    <th>需求/條件</th>
+  </tr>
+  <tr>
+    <td>鑽石級 💠</td>
+    <td>新台幣一千元以上或同等物品</td>
+  </tr>
+  <tr>
+    <td>白金級 🎖</td>
+    <td>新台幣五百元以上或同等物品</td>
+  </tr>
+  <tr>
+    <td>金級 🥇</td>
+    <td>新台幣一百元以上或同等物品</td>
+  </tr>
+  <tr>
+    <td>銀級 🥈</td>
+    <td>新台幣一元以上或同等物品</td>
+  </tr>
+</table>
 
 #### 團隊聯絡方式
 歡迎來信洽談任何事宜，我們的信箱為 [2020climas@gmail.com](mailto:2020climas@gmail.com)。或者您可以致電我們，您可以挑選一下任一窗口洽談（直接點擊連結即可撥號）：
