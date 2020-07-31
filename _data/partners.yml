@@ -23,3 +23,10 @@
         imageUrl: "dragons.jpg",
         width: "130px",
       }
+    - {
+        name: "王彥程",
+        description: "王彥程 🙌🏾",
+        link: "https://www.facebook.com/profile.php?id=100002549352048",
+        imageUrl: "allanwang.jpg",
+        width: "130px",
+      }
