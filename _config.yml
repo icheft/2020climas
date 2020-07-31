@@ -390,7 +390,7 @@ downloadDetailsTitle: "一些你可能需要的文件都在這"
 downloadDetailsCards:
   - {
       title: "行前通知書",
-      information: "上營前請記得要看！如果你有需要隊輔協助，請你不要猶豫，直接聯絡他們。",
+      information: "上營前請記得要看！如果你有需要隊輔協助，請你不要猶豫，直接聯絡他們。<a href='/assets/2020行前通知書.pdf'>點我下載</a>。",
     }
   - {
       title: "新生家長同意書",
