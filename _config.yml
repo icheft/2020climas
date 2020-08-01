@@ -204,7 +204,7 @@ ticketsOffers:
     buyButtonText: "點我進入報名頁面"
     ticketContentList: ["去程自行前往豐原火車站", "繳費截止日期為：2020/9/4"]
     validFrom: "2020-08-01T00:00"
-    validThrough: "2020-08-31T23:59"
+    validThrough: "2020-08-30T23:59"
 
 
   - name: "報名連結"
@@ -217,7 +217,7 @@ ticketsOffers:
     buyButtonText: "點我進入報名頁面"
     ticketContentList: ["去程於台北和工人一起搭遊覽車前往流星花園", "繳費截止日期為：2020/9/4"]
     validFrom: "2020-08-01T00:00"
-    validThrough: "2020-08-31T23:59"
+    validThrough: "2020-08-30T23:59"
 
 ticketsInfoText:
   - name: "報名資格"
@@ -227,10 +227,10 @@ ticketsInfoText:
   - name: "活動日期"
     detail: 2020・9/11（五）- 9/13（日）
   - name: "報名截止日期"
-    detail: "2020・8/28（五）"
+    detail: "2020・8/30（日）"
   - name: "營隊費用"
     detail1: "去程自行前往豐原火車站： <mark>新台幣 3,700 元整</mark>"
-    detail2: "去程於台北和工人一起搭遊覽車前往流星花園： <mark>新台幣 4,000 元整</mark>"
+    detail2: "去程於台北和學長姐一起搭遊覽車前往流星花園： <mark>新台幣 4,000 元整</mark>"
   - name: "繳費資訊"
     info: "請將報名費用匯款至以下帳戶（繳費截止日期為：<mark>2020/9/4</mark>）"
     accountPrompt: "匯款帳戶"
