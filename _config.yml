@@ -389,23 +389,23 @@ downloadDetailsTitle: "一些你可能需要的文件都在這"
 downloadDetailsCards:
   - {
       title: "行前通知書",
-      information: "上營前請記得要看！如果你有需要隊輔協助，請你不要猶豫，直接聯絡他們。<a href='/assets/2020行前通知書.pdf'>點我下載</a>。",
+      information: '上營前請記得要看！如果你有需要隊輔協助，請你不要猶豫，直接聯絡他們。<br><a href="/assets/2020行前通知書.pdf" class="btn btn-warning waves-effect waves-light waves-float" style="margin-top: 10px; color: #fff;">點我下載</a>',
     }
   - {
       title: "新生家長同意書",
-      information: '這份文件很重要！上營一定要帶！<a href="/assets/2020新生家長同意書.pdf">點我下載</a>。',
+      information: '這份文件很重要！上營一定要帶！<br><a href="/assets/2020新生家長同意書.pdf" class="btn btn-warning waves-effect waves-light waves-float" style="margin-top: 10px; color: #fff;">點我下載</a>',
     }
   - {
       title: "提前離營切結書",
-      information: '如果你有需要提前離開本次營隊，請你務必將此切結書下載並列印。簽名後於活動當天交給隊輔。 <a href="/assets/2020中途離營切結書.pdf">點我下載</a>。',
+      information: '如果你有需要提前離開本次營隊，請你務必將此切結書下載並列印。簽名後於活動當天交給隊輔。 <br><a href="/assets/2020提前離營切結書.pdf" class="btn btn-warning waves-effect waves-light waves-float" style="margin-top: 10px; color: #fff;">點我下載</a>',
     }
   - {
       title: "中途離營切結書",
-      information: '如果需要中途離營，請你務必將此切結書下載並列印。簽名後於活動當天交給隊輔。<a href="/assets/2020中途離營切結書.pdf">點我下載</a>。',
+      information: '如果需要中途離營，請你務必將此切結書下載並列印。簽名後於活動當天交給隊輔。<br><a href="/assets/2020中途離營切結書.pdf" class="btn btn-warning waves-effect waves-light waves-float" style="margin-top: 10px; color: #fff;">點我下載</a>',
     }
   - {
       title: "營手冊",
-      information: "營手冊上營會發，不用印下來！但下載下來，留存一份電子檔，多少可以變成回憶 😉",
+      information: "營手冊上營時不會發，我們走一個環保路線♻️所以，如果你堅持看紙本的話，請記得自己印下來！<br><br>在這裏，我們推薦你下載存在你最容易看到的位子，抑或是營隊當天，開啟本頁面瀏覽，數位化的時代，用電子檔案才是王道呀哈哈！<br><a href='#' class='btn btn-warning waves-effect waves-light waves-float' style='margin-top: 10px; color: #fff;'>暫時未開放下載🤫</a>",
     }
 downloadDetailsWideCards:
   - title: "Questions?"
