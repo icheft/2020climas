@@ -234,7 +234,7 @@ ticketsInfoText:
   - name: "繳費資訊"
     info: "請將報名費用匯款至以下帳戶（繳費截止日期為：<mark>2020/9/4</mark>）"
     accountPrompt: "匯款帳戶"
-    accountID: "134-20-032500-7"
+    accountID: "062-49-7915498-1"
     accountNamePrompt: "戶名"
     accountName: "范傑翔"
     bankPrompt: "銀行"
