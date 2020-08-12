@@ -29,10 +29,10 @@ tr:nth-child(even) {
 
 > 九月選課公布時間的學校公開資料不一致，請及時留意選課系統[^1]
 
-![選課時程](https://i.imgur.com/5kH5y52.png)
+![選課時程](/img/posts/course-selection/1.png)
 #### 選課用網站
 ###### [台大課程網](https://nol.ntu.edu.tw/nol/guest/index.php)
-![臺大課程網](https://i.imgur.com/mYsA9vJ.png)
+![臺大課程網](/img/posts/course-selection/2.png)
 + <mark>快速</mark>：可直接搜尋教授名稱、課堂名稱
 + <mark>共同</mark>：國文領域、英文領域、外文領域
 + <mark>系所</mark>：資管系必修選修課、外系必修選修課(以系所分類)
@@ -42,39 +42,41 @@ tr:nth-child(even) {
 + <mark>寫作教學</mark>
 + <mark>體育/軍訓</mark>(大一上不能自由選擇體育課，未來可透過這裡選擇專業領域)
 
-![程設設計 - 大一資管必修之一](https://i.imgur.com/lS21MPd.png)
+![程設設計 - 大一資管必修之一](/img/posts/course-selection/3.png)
 
 搜尋課程時除了類別外，也可以客製化的勾選自己還有空堂的時間，找到更適合自己的課！找到喜歡的課之後，可以按最右邊的按鈕「加入」，可以預先選好課程、看看自己的課表長怎麼樣。<mark>（隨時都可以!現在就可以了！）</mark>
 
 同一列也可以看到有關這門課的各式各樣資訊，點藍色的「課程名稱」可以看到更多有關這門課的官方資訊（課程大綱、計分方式、教授打的課程介紹）。
 
 ###### [台大選課系統](https://if192.aca.ntu.edu.tw/index.php)
-![臺大選課系統](https://i.imgur.com/AzI2g94.png)
+![臺大選課系統](/img/posts/course-selection/4.png)
 學校端選課的地方<mark>（一定要在這裡選課!只在課程網按「加入」沒有用）</mark>，可以看到所有選課相關的時間流程，等選課開始時會出現「進入選課」的按鈕，點進去就可以開始選課了（會有「匯入預選課程」的按鈕，可以把自己在課程網挑好的課程直接移過來）。
 
-![「通識」課程查詢結果](https://i.imgur.com/3uwSAl5.png)
+![「通識」課程查詢結果](/img/posts/course-selection/5.png)
 
 「選課人數查詢」（網頁上第一個區塊第四行，粗體字的連結）可以看到目前有多少人想要選這門課、這門課有多少剩餘名額（也可以透過這個觀察那些課特別熱門）。
 
 ###### [NTUcourse PTT](https://www.ptt.cc/bbs/NTUcourse/index.html)
-![NTUCourse on PTT](https://i.imgur.com/LqdSryv.png)
+![NTUCourse on PTT](/img/posts/course-selection/6.png)
 
 可以看到修過課的學長姐對該門課的評價（教學方式、推不推薦、評分方法、考試細節），除了在 PTT 的板上看各式各樣的評價，直接在 Google 打「課名 教授」或「課名 教授 ptt」也常常會看見進到 PTT 的評價區。其中可以特別注意最前面的數字（學年度-學期），越靠近現在的（108-1、108-2）評價可能會比較準確！
  
 ###### [台大課程資訊交流區](https://www.facebook.com/groups/581323785380794?locale=zh_TW)
-![台大課程資訊交流區臉書社團](https://i.imgur.com/c0NGkgO.png)
+![台大課程資訊交流區臉書社團](/img/posts/course-selection/7.png)
 FB 公開社團，2016 年創立，有比較多近期的評價，性質跟 PTT 很像。
 
 ###### [NTU Sweety Course](https://ntusweety.herokuapp.com)
 本網站沒有維護，但如果想要看歷史資料仍是可以的。
 
-![查詢畫面](https://i.imgur.com/ll9UTUp.png)
+![查詢畫面](/img/posts/course-selection/8.png)
 可以連結到 PTT 評價(點進去不一定會有)、課程網上的資料、加入課表(連結課程網)。點入課程名稱可以看到部分歷年這門課給過的成績分布。
 
-![中國傳統生命禮俗的歷史資料](https://i.imgur.com/CktlTzi.png)
+![中國傳統生命禮俗的歷史資料](/img/posts/course-selection/9.png)
 
 ### 修課規定
 > 畢業學分 134 學分
+
+
 #### 共同科目 (24)
 + 外文 (6):本系限修英文
 + 進階英語(0):可用「英檢」/「大一英文免修核准資格」抵免[^3]
