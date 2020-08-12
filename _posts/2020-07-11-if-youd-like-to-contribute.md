@@ -21,7 +21,7 @@ isStaticPost: false
 
 2020 CLIMAS Camp will be held 11-13th of September in Taichung. If you want to be part of this amazing event but don't know how, here is one way to do it. Every one of you, including the organizers and students from all over Taiwan (the world), can submit your very own work to us at [2020climas@gmail.com](mailto:2020climas@gmail.com). Behold, please see the instructions or otherwise, I might not be able to receive your work.
 
-#### How to Submit Your Blog Post?
+### How to Submit Your Blog Post?
 
 First and foremost, we prefer you using `markdown`. If you can send us a link to your `markdown` post on [hackmd.io](https://hackmd.io/?nav=overview), we'd be so much appreciated.
 
@@ -47,26 +47,26 @@ Content:
 
 Easy, eh?
 
-#### Other Contents
+### Other Contents
 If you would like to contribute more than just composing a post, we welcome you to do the following things:
 
 Please be reminded that each issue is subject to its own template. Follow the guidelines and fill in the missing information. 
 
-##### Wordings Report
+#### Wordings Report
 If you believe something isn't spelled correctly or any typo, please submit in the [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=wordings-report.md&title=%5B網站文字校正%5D).
 
-##### Substituting Media Contents
+#### Substituting Media Contents
 If you find the image or video disturbing, please also submit your very own media in the [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=media-content-submission.md&title=%5B媒體素材提供%5D) as well. Please make sure that you have a link to your media.
 
-##### Bug Report
+#### Bug Report
 If there is something wrong with the website, please submit a bug report via [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D).
 
-##### Feature Requests
+#### Feature Requests
 If you feel like there is something missing or if there is any feature you want to add to the site, please also submit your proposal via the [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE%5D).
 
-##### FAQ Submission
+#### FAQ Submission
 If you shall have any questions about the camp, please submit your question at the [issue page](https://github.com/icheft/2020climas/issues/new?assignees=&labels=&template=faq_submission.md&title=%5BFAQ%5D). We report to the organizers ASAP. You can follow the [FAQ page](https://climas.now.sh/faq/) for further details.
 
 
-#### Any questions? 
+### Any questions? 
 If you still have any questions or ideas, please let us know as well. Simply [create a new issue on the issue page](https://github.com/icheft/2020climas/issues/new) or just dm Brian Chen if you know him in real life 😉.
