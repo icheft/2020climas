@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 選課懶人包
-author: "巫芊瑩"
+author: "資管北小營學術籌備組"
 date: 2020-08-12 13:40:16 +0800
 ---
 <style>
