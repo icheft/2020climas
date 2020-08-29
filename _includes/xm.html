@@ -1,0 +1,32 @@
+<!-- Begin Speakers List 3-->
+<section id="xm">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-center animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">小明們</h4>
+            {% for xiaoming in site.data.xiaomings %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ xiaoming.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/xiaomings/' | append: xiaoming.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <ul class="ribbon-wrapper">
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ xiaoming.score }}</p>
+                                <p class="ribbon full-title">{{ xiaoming.teamID }}</p>
+                            </li>
+                        </ul>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ xiaoming.name }}</h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ xiaoming.teamID }} / {{ xiaoming.score }}</span>
+                            </div>
+                        </figcaption>
+                        <p class="bio">{{ xiaoming.story | strip_html | truncate: 72}}</p>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Speakers List 2 -->

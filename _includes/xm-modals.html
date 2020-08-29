@@ -1,0 +1,35 @@
+<!-- Begin Xiaoming Modals -->
+<div class="modals" class="modals">
+    {% for xiaoming in site.data.xiaomings %}
+        {% if page.modal == "xiaoming" %}
+            <div aria-hidden="true" aria-labelledby="speakerDetailLabel-{{ xiaoming.id }}" class="modal fade text-left people-modal" id="speakerDetail-{{ xiaoming.id }}" role="dialog" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <div class="close">
+                                <svg class="icon icon-cross" viewbox="0 0 32 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+                                </svg>
+                                <div class="close-mask" data-dismiss="modal"></div>
+                            </div>
+                            <div class="people-details">
+                                <div class="row">
+                                    <div class="col-md-2 col-sm-2">
+                                        <div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/xiaomings/' | append: xiaoming.thumbnailUrl }})"></div>
+                                    </div>
+                                    <div class="col-md-10 col-sm-10 details">
+                                        <p class="name">{{ xiaoming.name }}
+                                            <span class="position">{{ xiaoming.teamID }} / {{ xiaoming.score }}</span>
+                                        </p>
+                                        <p class="about">{{ xiaoming.story }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
+<!-- End Xiaoming Modals -->
