@@ -205,6 +205,7 @@ ticketsOffers:
     ticketContentList: ["去程自行前往豐原火車站", "繳費截止日期為：2020/9/4"]
     validFrom: "2020-08-01T00:00"
     validThrough: "2020-08-30T23:59"
+    disabled: true
 
 
   - name: "報名連結"
@@ -218,6 +219,7 @@ ticketsOffers:
     ticketContentList: ["去程於台北和工人一起搭遊覽車前往流星花園", "繳費截止日期為：2020/9/4"]
     validFrom: "2020-08-01T00:00"
     validThrough: "2020-08-30T23:59"
+    disabled: true
 
 ticketsInfoText:
   - name: "報名資格"

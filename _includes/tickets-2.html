@@ -52,11 +52,11 @@
 									>{{ ticketsOffer.buyButtonText }}</a
 								>
 							</span>
-							{% else %} {% assign ticketValidFrom =
-							ticketsOffer.validFrom | split: "T" %}
+							{% else %} {% assign ticketValidThrough =
+							ticketsOffer.validThrough | split: "T" %}
 							<p class="ticket-fallback">
-								報名將於 {{ ticketValidFrom[0] | date: "%-d %B
-								%Y"}} {{ ticketValidFrom[1] }} 開放
+								報名已於 {{ ticketValidThrough[0] | date: "%-d %B
+								%Y"}} {{ ticketValidThrough[1] }} 截止
 							</p>
 							{% endif %}
 						</div>
