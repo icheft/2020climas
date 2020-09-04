@@ -96,6 +96,17 @@ layout: compress
                 $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
                 $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
             });
+        </script>   
+    {% endif %}
+    {% if page.title == "活動遊戲" %}
+        <script type="text/javascript">
+            jQuery(document).ready(function(){
+                jQuery('.skillbar').each(function(){
+                    jQuery(this).find('.skillbar-bar').animate({
+                        width:jQuery(this).attr('data-percent')
+                    },3000);
+                });
+            });
         </script>
     {% endif %}
 </body>

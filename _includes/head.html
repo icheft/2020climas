@@ -49,6 +49,10 @@
 		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 		rel="stylesheet"
 	/>
+
+	{% if page.title == "活動遊戲" %}
+	<link href="{{ "/css/xm.css" | prepend: site.baseurl }}" rel="stylesheet">
+	{% endif %}
 	<link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet">
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

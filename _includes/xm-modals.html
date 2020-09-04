@@ -22,6 +22,15 @@
                                             <span class="position">{{ xiaoming.teamID }} / {{ xiaoming.score }}</span>
                                         </p>
                                         <p class="about">{{ xiaoming.story }}</p>
+                                        <div class="container-skillbar">
+                                            {% for skill in xiaoming.skill %}
+                                                <div class="skillbar clearfix" data-percent="{{ skill["percentage"] }}">
+                                                    <div class="skillbar-title" style="background: {{ skill["color"] }};"><span>{{ skill["name"] }}</span></div>
+                                                    <div class="skillbar-bar" style="background: {{ skill["color"] }};"></div>
+                                                    <div class="skill-bar-percent">{{ skill["score"] }}</div>
+                                                </div> <!-- End Skill Bar -->
+                                            {% endfor %}
+                                        </div>
                                     </div>
                                 </div>
                             </div>

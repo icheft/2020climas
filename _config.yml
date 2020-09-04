@@ -42,6 +42,7 @@ c4sponsorsList: "/sponsors/"
 navigationLinks:
   - { permalink: "/", text: "首頁" }
   - { permalink: "/schedule/", text: "活動流程" }
+  - { permalink: "/story/", text: "活動遊戲" }
   - { permalink: "/team/", text: "認識團隊" }
   - { permalink: "/blog/", text: "最新消息" }
   - { permalink: "/downloads/", text: "下載區" }
