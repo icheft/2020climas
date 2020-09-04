@@ -264,7 +264,7 @@
         link: "https://www.facebook.com/profile.php?id=100002951336823",
       }
 
-- id: 99
+- id: 20
   name: "Brian"
   surname: "陳立軒"
   title: "Developer, @icheft"
@@ -281,7 +281,7 @@
     - { name: "site", link: "https://icheft.github.io/" }
     - { name: "facebook", link: "https://facebook.com/brian.lxchen" }
 
-- id: 100
+- id: 21
   name: "Chien-Yin"
   surname: "巫芊瑩"
   title: "Developer"
