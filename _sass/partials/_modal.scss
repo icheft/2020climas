@@ -112,3 +112,21 @@ $modal-highlight-color: #212121;
         font-size: 14px;
     }
 }
+.modal-tag-wrapper {
+    margin-bottom: 5px;
+    a.modal-tag {
+        margin-right: 7px;
+        font-size: 14px;
+    }
+    a.modal-tag::before {
+        position: absolute;
+        content: attr(data-content);
+        color: $base-section-background-secondary-color;
+        // text-decoration: underline;
+        clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
+        transition: clip-path 275ms ease;
+    }
+    a.modal-tag:hover::before {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+}

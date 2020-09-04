@@ -5,13 +5,15 @@
   color: rgb(253, 141, 61)
   thumbnailUrl: ytber.png
   skill:
-    - { name: "社交", score: 6, percentage: "100%", color: "rgb(253, 141, 61)"}
-    - { name: "學業", score: 4, percentage: "67%", color: "rgb(253, 141, 61)"}
-    - { name: "愛情", score: 4, percentage: "67%", color: "rgb(253, 141, 61)"}
-    - { name: "金錢", score: 2, percentage: "33%", color: "rgb(253, 141, 61)"}
-    - { name: "運氣", score: 6, percentage: "100%", color: "rgb(253, 141, 61)"}
+    - { name: "社交", score: 6, percentage: "100%"}
+    - { name: "學業", score: 4, percentage: "67%"}
+    - { name: "愛情", score: 4, percentage: "67%"}
+    - { name: "金錢", score: 2, percentage: "33%"}
+    - { name: "運氣", score: 6, percentage: "100%"}
   tags:
-    - { text: ""}
+    - { text: "社會議題愛好者"}
+    - { text: "抽獎天選者"}
+    - { text: "吃土ing"}
 - name: "卷姐小鳴"
   score: "-"
   id: 1
