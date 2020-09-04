@@ -75,3 +75,10 @@
     color:#ffffff;
     color:rgba(0, 0, 0, 0.5);
 }
+
+@media only screen and (max-width: 350px) {
+    .skillbar {
+        width:250px;
+    }
+}
+

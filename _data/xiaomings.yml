@@ -1,3 +1,53 @@
+- name: "普通小明"
+  score: "-"
+  teamID: "尚未公布"
+  id: 4
+  thumbnailUrl: normal.png
+  color: rgb(255,205,61)
+  textColor: rgb(40,42,54)
+  skill:
+    - { name: "社交", score: 4, percentage: "67%"}
+    - { name: "學業", score: 6, percentage: "100%"}
+    - { name: "愛情", score: 2, percentage: "33%"}
+    - { name: "金錢", score: 4, percentage: "67%"}
+    - { name: "運氣", score: 6, percentage: "100%"}
+  tags:
+    - { text: "非常普通"}
+    - { text: "尋找真愛ing"}
+    - { text: "阿就剛好上台大"}
+- name: "吃貨小民"
+  score: "-"
+  teamID: "尚未公布"
+  id: 2
+  thumbnailUrl: foodie.png
+  color: rgb(48,220,124)
+  skill:
+    - { name: "社交", score: 6, percentage: "100%"}
+    - { name: "學業", score: 6, percentage: "100%"}
+    - { name: "愛情", score: 4, percentage: "67%"}
+    - { name: "金錢", score: 4, percentage: "67%"}
+    - { name: "運氣", score: 2, percentage: "33%"}
+  tags:
+    - { text: "hangry"}
+    - { text: "腳踏車欠拖"}
+    - { text: "吃好睡好成績好"}
+- name: "樂團主唱小銘"
+  score: "-"
+  teamID: "尚未公布"
+  thumbnailUrl: singer.png
+  id: 5
+  color: rgb(39,109,214)
+  textColor: rgb(60,74,79)
+  skill:
+    - { name: "社交", score: 6, percentage: "100%"}
+    - { name: "學業", score: 2, percentage: "33%"}
+    - { name: "愛情", score: 6, percentage: "100%"}
+    - { name: "金錢", score: 4, percentage: "67%"}
+    - { name: "運氣", score: 4, percentage: "67%"}
+  tags:
+    - { text: "粉絲破萬"}
+    - { text: "花心大蘿蔔"}
+    - { text: "暑修王"}
 - name: "YTber小Ming"
   score: "-"
   id: 0
@@ -19,33 +69,64 @@
   id: 1
   teamID: "尚未公布"
   thumbnailUrl: deanlist.png
-- name: "吃貨小民"
-  score: "-"
-  teamID: "尚未公布"
-  id: 2
-  thumbnailUrl: foodie.png
-- name: "實況小朙"
-  score: "-"
-  teamID: "尚未公布"
-  thumbnailUrl: live.png
-  id: 3
-- name: "普通小明"
-  score: "-"
-  teamID: "尚未公布"
-  id: 4
-  thumbnailUrl: normal.png
-- name: "樂團小銘"
-  score: "-"
-  teamID: "尚未公布"
-  thumbnailUrl: singer.png
-  id: 5
-- name: "泳隊小洺"
-  score: "-"
-  teamID: "尚未公布"
-  id: 6
-  thumbnailUrl: swimmer.png
+  textColor: rgb(40,42,54)
+  color: rgb(54,67,80)
+  skill:
+    - { name: "社交", score: 2, percentage: "33%"}
+    - { name: "學業", score: 6, percentage: "100%"}
+    - { name: "愛情", score: 4, percentage: "67%"}
+    - { name: "金錢", score: 6, percentage: "100%"}
+    - { name: "運氣", score: 4, percentage: "67%"}
+  tags:
+    - { text: "領獎終生"}
+    - { text: "不愁吃穿"}
+    - { text: "忙到沒朋友QQ"}
 - name: "追劇小旻"
   score: "-"
   teamID: "尚未公布"
   thumbnailUrl: tv.png
+  color: rgb(252,75,100)
+  textColor: rgb(60,74,79)
   id: 7
+  skill:
+    - { name: "社交", score: 2, percentage: "33%"}
+    - { name: "學業", score: 4, percentage: "67%"}
+    - { name: "愛情", score: 6, percentage: "100%"}
+    - { name: "金錢", score: 4, percentage: "67%"}
+    - { name: "運氣", score: 6, percentage: "100%"}
+  tags:
+    - { text: "爆雷王"}
+    - { text: "選課必上"}
+    - { text: "男友長跑5年"}
+- name: "實況主小朙"
+  score: "-"
+  teamID: "尚未公布"
+  color: rgb(140,87,208)
+  thumbnailUrl: live.png
+  id: 3
+  skill:
+    - { name: "社交", score: 4, percentage: "67%"}
+    - { name: "學業", score: 4, percentage: "67%"}
+    - { name: "愛情", score: 2, percentage: "33%"}
+    - { name: "金錢", score: 6, percentage: "100%"}
+    - { name: "運氣", score: 6, percentage: "100%"}
+  tags:
+    - { text: "小有名氣"}
+    - { text: "業配一直來"}
+    - { text: "孤單寂寞覺得冷"}
+- name: "泳隊隊長小泯"
+  score: "-"
+  teamID: "尚未公布"
+  id: 6
+  thumbnailUrl: swimmer.png
+  color: rgb(9,172,241)
+  skill:
+    - { name: "社交", score: 4, percentage: "67%"}
+    - { name: "學業", score: 2, percentage: "33%"}
+    - { name: "愛情", score: 6, percentage: "100%"}
+    - { name: "金錢", score: 6, percentage: "100%"}
+    - { name: "運氣", score: 4, percentage: "67%"}
+  tags:
+    - { text: "獎金拿不完"}
+    - { text: "台大醫科男友"}
+    - { text: "21邊緣"}
