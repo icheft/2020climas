@@ -8,7 +8,8 @@ Note and useful links can be found [here](https://see-climas-note.now.sh). If yo
 I am currently working on website quality for SEO and better browsing experience. 
 
 ### Others
-Please refer to media requests doc (for internal use).
++ Please refer to media requests doc (for internal use).
++ One may update the score accordingly via [this file](https://hackmd.io/@icheft/xm_score/edit) held on *hackmd*.
 
 ## How to Contribute?
 Easy, please feel free to submit your own question regarding the site on the [issue page](https://github.com/icheft/2020climas/issues/new/choose) using the template. You can also star or fork this repo. 
