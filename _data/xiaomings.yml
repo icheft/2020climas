@@ -1,6 +1,6 @@
 - name: "普通小明"
-  score: "20"
-  teamID: "5小"
+  score: "-"
+  teamID: "尚未公布"
   id: 0
   thumbnailUrl: normal.png
   color: rgb(255,205,61)
@@ -16,8 +16,8 @@
     - { text: "尋找真愛ing"}
     - { text: "阿就剛好上台大"}
 - name: "吃貨小民"
-  score: "14"
-  teamID: "3小"
+  score: "-"
+  teamID: "尚未公布"
   id: 1
   thumbnailUrl: foodie.png
   color: rgb(48,220,124)
@@ -32,8 +32,8 @@
     - { text: "腳踏車欠拖"}
     - { text: "吃好睡好成績好"}
 - name: "樂團主唱小銘"
-  score: "16"
-  teamID: "8小"
+  score: "-"
+  teamID: "尚未公布"
   thumbnailUrl: singer.png
   id: 2
   color: rgb(39,109,214)
@@ -49,9 +49,9 @@
     - { text: "花心大蘿蔔"}
     - { text: "暑修王"}
 - name: "YTber小Ming"
-  score: "18"
+  score: "-"
   id: 3
-  teamID: "6小"
+  teamID: "尚未公布"
   color: rgb(253, 141, 61)
   thumbnailUrl: ytber.png
   skill:
@@ -65,9 +65,9 @@
     - { text: "抽獎天選者"}
     - { text: "吃土ing"}
 - name: "卷姐小鳴"
-  score: "16"
+  score: "-"
   id: 4
-  teamID: "2小"
+  teamID: "尚未公布"
   thumbnailUrl: deanlist.png
   textColor: rgb(40,42,54)
   color: rgb(54,67,80)
@@ -82,8 +82,8 @@
     - { text: "不愁吃穿"}
     - { text: "忙到沒朋友QQ"}
 - name: "追劇小旻"
-  score: "15"
-  teamID: "7小"
+  score: "-"
+  teamID: "尚未公布"
   thumbnailUrl: tv.png
   color: rgb(252,75,100)
   textColor: rgb(60,74,79)
@@ -99,8 +99,8 @@
     - { text: "選課必上"}
     - { text: "男友長跑5年"}
 - name: "實況主小朙"
-  score: "11"
-  teamID: "1小"
+  score: "-"
+  teamID: "尚未公布"
   color: rgb(140,87,208)
   thumbnailUrl: live.png
   id: 6
@@ -115,8 +115,8 @@
     - { text: "業配一直來"}
     - { text: "孤單寂寞覺得冷"}
 - name: "泳隊隊長小泯"
-  score: "15"
-  teamID: "4小"
+  score: "-"
+  teamID: "尚未公布"
   id: 7
   thumbnailUrl: swimmer.png
   color: rgb(9,172,241)
@@ -130,4 +130,3 @@
     - { text: "獎金拿不完"}
     - { text: "台大醫科男友"}
     - { text: "21邊緣"}
-
