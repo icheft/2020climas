@@ -14,6 +14,13 @@
         imageUrl: "ring.svg",
         width: "120px",
       }
+    - {
+        name: "泰山氣泡水",
+        description: "感謝泰山氣泡水贊助",
+        link: "https://www.taisunshop.com.tw/taisunshop/index.php?action=product_detail&prod_no=P0000100000140",
+        imageUrl: "cheers.png",
+        width: "120px",
+      }
 - group: "個人贊助"
   elements:
     - {
