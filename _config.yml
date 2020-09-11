@@ -92,15 +92,15 @@ aboutBlock:
 statisticBlockImage: "statistic.png"
 statisticBlock:
   - {
-      count: "50",
+      count: "80",
       specialCharacter: "+",
       info: "學員",
       detail: "來自全台（世界？）各地的 Elites！",
     }
   - {
-      count: "600",
+      count: "99",
       specialCharacter: "+",
-      info: "小時",
+      info: "天",
       detail: "學長姐們的精心策劃",
     }
   - {
