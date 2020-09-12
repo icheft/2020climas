@@ -5,6 +5,14 @@
   thumbnailUrl: normal.png
   color: rgb(255,205,61)
   textColor: rgb(40,42,54)
+  story: "
+  <ul>
+  <li>大地: 4th</li>
+  <li>策略: 2nd 🥈</li>
+  <li>密室: 4th</li>
+  <li>RPG: 5th</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 4, percentage: "67%"}
     - { name: "學業", score: 6, percentage: "100%"}
@@ -21,6 +29,14 @@
   id: 7
   thumbnailUrl: foodie.png
   color: rgb(48,220,124)
+  story: "
+  <ul>
+  <li>大地: 5th</li>
+  <li>策略: 6th</li>
+  <li>密室: 3rd 🥉</li>
+  <li>RPG: 3rd 🥉</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 6, percentage: "100%"}
     - { name: "學業", score: 6, percentage: "100%"}
@@ -38,6 +54,14 @@
   id: 2
   color: rgb(39,109,214)
   textColor: rgb(60,74,79)
+  story: "
+  <ul>
+  <li>大地: 7th</li>
+  <li>策略: 8th</li>
+  <li>密室: 2nd 🥈</li>
+  <li>RPG: 1st 🥇</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 6, percentage: "100%"}
     - { name: "學業", score: 2, percentage: "33%"}
@@ -54,6 +78,14 @@
   teamID: "四小"
   color: rgb(253, 141, 61)
   thumbnailUrl: ytber.png
+  story: "
+  <ul>
+  <li>大地: 8th</li>
+  <li>策略: 7th</li>
+  <li>密室: 7th</li>
+  <li>RPG: 4th</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 6, percentage: "100%"}
     - { name: "學業", score: 4, percentage: "67%"}
@@ -71,6 +103,14 @@
   thumbnailUrl: deanlist.png
   textColor: rgb(40,42,54)
   color: rgb(54,67,80)
+  story: "
+  <ul>
+  <li>大地: 1st 🥇</li>
+  <li>策略: 5th</li>
+  <li>密室: 6th</li>
+  <li>RPG: 6th</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 2, percentage: "33%"}
     - { name: "學業", score: 6, percentage: "100%"}
@@ -88,6 +128,14 @@
   color: rgb(252,75,100)
   textColor: rgb(60,74,79)
   id: 8
+  story: "
+  <ul>
+  <li>大地: 3rd 🥉</li>
+  <li>策略: 4th</li>
+  <li>密室: 8th</li>
+  <li>RPG: 8th</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 2, percentage: "33%"}
     - { name: "學業", score: 4, percentage: "67%"}
@@ -104,6 +152,14 @@
   color: rgb(140,87,208)
   thumbnailUrl: live.png
   id: 1
+  story: "
+  <ul>
+  <li>大地: 2nd 🥈</li>
+  <li>策略: 3rd 🥉</li>
+  <li>密室: 1st 🥇</li>
+  <li>RPG: 2nd 🥈</li>
+  </ul>
+  "
   skill:
     - { name: "社交", score: 4, percentage: "67%"}
     - { name: "學業", score: 4, percentage: "67%"}
@@ -119,6 +175,14 @@
   teamID: "五小"
   id: 5
   thumbnailUrl: swimmer.png
+  story: "
+  <ul>
+  <li>大地: 6th</li>
+  <li>策略: 1st 🥇</li>
+  <li>密室: 5th</li>
+  <li>RPG: 7th</li>
+  </ul>
+  "
   color: rgb(9,172,241)
   skill:
     - { name: "社交", score: 4, percentage: "67%"}

@@ -58,6 +58,11 @@
   background-clip: padding-box;
   // Remove focus outline from opened modal
   outline: 0;
+  li {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 26px;
+  }
 }
 
 // Modal background
